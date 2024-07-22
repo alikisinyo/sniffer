@@ -29,7 +29,7 @@ To run this application, you need to install the following dependencies:
 
    ```bash
    git clone https://github.com/alikisinyo/sniffer.git
-   cd 
+   cd sniffer
    ```
 
 2. **Create a virtual environment:**
