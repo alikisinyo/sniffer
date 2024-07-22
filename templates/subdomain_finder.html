@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %}FINDER{% endblock %}
+
+{% block content %}
+<h1 class="text-center neon-text">Subdomain Finder</h1>
+<form method="post" class="mt-4 url-form">
+    <div class="form-group">
+        <label for="url" class="neon-text">Enter a URL</label>
+        <input type="text" class="form-control" id="url" name="url" placeholder="Enter URL to find subdomains">
+    </div>
+    <button type="submit" class="btn btn-primary btn-block neon-button">Find Subdomains</button>
+</form>
+
+{% if subdomains %}
+<h2 class="mt-5 neon-text">Subdomains</h2>
+<table class="table table-dark table-striped table-hover mt-3">
+    <thead>
+    <tr>
+        <th>Subdomain 1</th>
+        <th>Subdomain 2</th>
+        <th>Subdomain 3</th>
+        <th>Subdomain 4</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for row in subdomains %}
+    <tr>
+        {% for subdomain in row %}
+        <td><a href="http://{{ subdomain }}" target="_blank" class="text-info">{{ subdomain }}</a></td>
+        {% else %}
+        <td></td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+<a href="{{ url_for('download_file', filename=csv_filename) }}" class="btn btn-success btn-block mt-3 neon-button">Download CSV</a>
+{% endif %}
+{% endblock %}

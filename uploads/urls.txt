@@ -1,0 +1,729 @@
+
+1960edwards.safaricom.co.kesafaricom.co.ke
+2fa.safaricom.co.kesafaricom.co.ke
+7s.safaricom.co.kesafaricom.co.ke
+Eliud159.safaricom.co.kesafaricom.co.ke
+abbybot.safaricom.co.kesafaricom.co.ke
+accounts.safaricom.co.kesafaricom.co.ke
+acpe.app.safaricom.co.kesafaricom.co.ke
+adfs.safaricom.co.kesafaricom.co.ke
+admin.county.safaricom.co.kesafaricom.co.ke
+admin.partnerworkspace.safaricom.co.kesafaricom.co.ke
+advisor.safaricom.co.kesafaricom.co.ke
+aftersales.safaricom.co.kesafaricom.co.ke
+afya.safaricom.co.kesafaricom.co.ke
+ag.od.m-pesa.safaricom.co.kesafaricom.co.ke
+ageeza.safaricom.co.kesafaricom.co.ke"
+agm.safaricom.co.kesafaricom.co.ke
+anthonarttey76.safaricom.co.kesafaricom.co.ke
+anthonyatt.safaricom.co.kesafaricom.co.ke
+anthonyattorn.safaricom.co.kesafaricom.co.ke
+anthonyattorne.safaricom.co.kesafaricom.co.ke
+api-safaricom-feedback.customerexperience.safaricom.co.ke
+api-safaricom-nfy.customerexperience.safaricom.co.ke
+api-safaricompreprod-feedback.cxpreprod.safaricom.co.ke
+api.ageeza.safaricom.co.kesafaricom.co.ke
+api.cardpayments-uat.safaricom.co.ke
+api.cardpayments.safaricom.co.ke
+api.consumer.fsdev.safaricom.co.kesafaricom.co.ke
+api.consumer.fsprod.safaricom.co.kesafaricom.co.ke
+api.county.safaricom.co.kesafaricom.co.ke
+api.dxlapi.safaricom.co.kesafaricom.co.ke
+api.dxlsandbox.safaricom.co.kesafaricom.co.ke
+api.fsdev.safaricom.co.kesafaricom.co.ke
+api.fsprod.safaricom.co.kesafaricom.co.ke
+api.ic-dxlsandbox.safaricom.co.kesafaricom.co.ke
+api.iotsimcontrol.safaricom.co.kesafaricom.co.ke
+api.ipesandbox.safaricom.co.kesafaricom.co.ke
+api.merchant.fsdev.safaricom.co.kesafaricom.co.ke
+api.merchant.fsprod.safaricom.co.kesafaricom.co.ke
+api.migration.fsdev.safaricom.co.kesafaricom.co.ke
+api.migration.fsprod.safaricom.co.kesafaricom.co.ke
+api.orgmigration.fsawsprod.safaricom.co.kesafaricom.co.ke
+api.orgmigration.fsprod.safaricom.co.kesafaricom.co.ke
+api.partnerworkspace.safaricom.co.ke
+api.safaricom.co.kesafaricom.co.ke
+api.uat1-ssk.safaricom.co.kesafaricom.co.ke
+api.vodasure.fsdev.safaricom.co.kesafaricom.co.ke
+api2.safaricom.co.kesafaricom.co.ke
+apicctv.safaricom.co.kesafaricom.co.ke
+apigw.ke.safaricom.co.kesafaricom.co.ke
+apistg.safaricom.co.kesafaricom.co.ke.
+app1.iotsimportal.safaricom.co.kesafaricom.co.ke
+app2.iotsimportal.safaricom.co.kesafaricom.co.ke
+apps.safaricom.co.kesafaricom.co.ke
+appsandbox.safaricom.co.kesafaricom.co.ke
+appstg.safaricom.co.kesafaricom.co.ke.
+archive.safaricom.co.kesafaricom.co.ke
+arifa.safaricom.co.kesafaricom.co.ke
+assetcontrol.safaricom.co.kesafaricom.co.ke
+auth.authdxl.safaricom.co.kesafaricom.co.ke
+auth.fsdev.safaricom.co.kesafaricom.co.ke68029.9691875edeb2329-16a1-459e-a048-dcdd4a65d3a5
+auth.partnerworkspace.safaricom.co.kesafaricom.co.ke68030.0750287e5d48c6f-4f99-4972-baef-8beb7351d43c
+authdxl.safaricom.co.kesafaricom.co.ke"['alienvault' 'dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.87505757759e778-40fd-4546-baeb-fe93cc9b1fd7
+autodiscover.domains.safaricom.co.kesafaricom.co.ke.369771a8fd6bc9-306f-4dca-b2d8-b6a993959f12
+autodiscover.safaricom.co.kesafaricom.co.ke"['hackertarget' 'dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.429078600da70a4-869c-409d-b786-3669f9d2b562
+automationsuite.safaricom.co.kesafaricom.co.ke68030.77065374ac50b95-803e-4f75-9d6e-51beb2cd4433
+b2b.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'crtsh']"{}subfindersubdomain.12536706f526d7-f087-4dc2-8bf2-a7d2e4f3c041
+beta.accounts.safaricom.co.kesafaricom.co.ke.66715532da2de15-78e6-4754-8ae3-22134938f36e
+beta.coaching.safaricom.co.kesafaricom.co.ke68029.400173412565845-bb84-4b7a-bd54-56d5c8afb4d2
+beta.county.safaricom.co.kesafaricom.co.ke68029.7061937a1d3d3ac-6759-4bb0-ba48-8b85482f9a60
+bicp-oat.safaricom.co.kesafaricom.co.ke68029.851202719a53b36-95ff-4c7f-8a6c-8294b388c413
+bongarewards.safaricom.co.kesafaricom.co.ke68030.26768739a4aa430-9ac6-4e37-ae54-554114566b82
+bpm.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh' 'anubis' 'digitorus']"{}subfindersubdomain.596125895959cbe-b208-41c7-a25c-3993e0019618
+bpmol.safaricom.co.kesafaricom.co.ke68030.9396298997937c9-bafc-4991-a4f9-fe0e5c7789f4
+bulkemails.safaricom.co.kesafaricom.co.ke68029.4513388d71b800b-f53d-40fa-8167-e7ef1d0b2986
+business.safaricom.co.kesafaricom.co.ke"['crtsh' 'hackertarget' 'alienvault' 'dnsdumpster']"{}subfindersubdomain.221920548db62ea-5a87-4f77-a64f-9483079ff0b1
+businessportal.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'dnsdumpster']"{}subfindersubdomain.0294096e98aa53a-a9c0-4aa2-b36a-f55cb36e3b55
+cardpayments-internal.safaricom.co.kesafaricom.co.ke68029.714917240b40ff2-0183-4913-9f75-cf33d4e44577
+cardpayments-uat-internal.safaricom.co.kesafaricom.co.ke68030.3391578869b4c6f-1250-4c89-87b5-edca030cd55f
+cardpayments-uat.safaricom.co.kesafaricom.co.ke.2494462a724e2d6-e28b-4f44-a104-38607df31db5
+cardpaymentsawsuat.safaricom.co.kesafaricom.co.ke68030.335898279d82451-a186-4f1c-a523-4a08add557c1
+cctv.safaricom.co.kesafaricom.co.ke.88966635b6366bf-bb69-4955-9678-f1366eae76b5
+certificate.safaricom.co.kesafaricom.co.ke68030.50714831914e305-d79e-4cb1-89ac-de4bdf9f4813
+cfa.safaricom.co.kesafaricom.co.ke.56172303e87c72-b2fc-46a3-9118-eebbb2bf3e42
+change-enablement-portal.safaricom.co.kesafaricom.co.ke68029.97132044d1218a1-8039-4457-bdec-ce6578d77ad8
+channelsawsprod.safaricom.co.kesafaricom.co.ke68030.46841674f51624f-7449-46e6-b73f-676946e0aeba
+channelsawsuat.safaricom.co.kesafaricom.co.ke68029.8797402476db44d-d8c5-4cd7-ad3b-6c8003670d2c
+channelssandbox.safaricom.co.kesafaricom.co.ke68030.085664512a8e933-67cf-47f3-ace8-39a1b61c3594
+chapadimba.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.4979963354cf8af-d628-4244-962c-816514590406
+chatbot.safaricom.co.kesafaricom.co.ke68030.52059030397fb05-42e2-4471-b340-fbb57939aa8a
+chekibill.safaricom.co.kesafaricom.co.ke.65449899a03c3f-1f0b-4305-9806-bc4ecd091c86
+ci-uat.devsecops.safaricom.co.kesafaricom.co.ke68029.658292822a87e3b-af87-40bb-905d-f4ee86ea4573
+ci.devsecops-uat.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.15600253f2df38f-9c6c-4e88-9802-1117a9019219
+ci.devsecops.safaricom.co.kesafaricom.co.ke68030.1092606abf62f23-b1af-422d-9a5e-da31e22fc468
+classifieds.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.845303b2f61714-0d4c-4b41-a570-ded1f5504208
+click.safaricom.co.kesafaricom.co.ke.9647076faf2dbef-4513-4e2c-a248-1d71173c22a2
+clickapp.safaricom.co.kesafaricom.co.ke5871716467e4a92-eb80-4377-b76f-e94ea40c72a4
+cloud.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.2630794ba6af7f6-ad74-40a1-b86d-b671b73aa009
+cms-beta.county.safaricom.co.kesafaricom.co.ke68029.5353034cc8aea5b-345a-4df2-800d-39701bb0dea1
+cms.county.safaricom.co.kesafaricom.co.ke.15722082f2ee7b8-c9e0-4c57-b8cd-7da4b9d2b94e
+cms.safaricom.co.kesafaricom.co.ke"['anubis' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.4754553f7b92df8-7058-44f5-bd14-119958337411
+coaching.safaricom.co.kesafaricom.co.ke.58950173ca674b-09c8-44c6-853f-ec812eb08c7a
+collab-edge.safaricom.co.kesafaricom.co.ke68030.140947a926971a-4a23-4dd2-97ca-c4d47621c2e6
+connectmasteronline.safaricom.co.kesafaricom.co.ke"['hackertarget' 'crtsh']"{}subfindersubdomain.8489075180afae5-d7c9-4768-b1ce-4241a4178f80
+contactsbackup.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.680383678c87fc-73a8-4acf-aac9-a03d7d7e8e7f
+content.safinfo.safaricom.co.kesafaricom.co.ke68030.57777389446625b-4cda-406e-95a8-9496fac444e0
+contentapi.safaricom.co.kesafaricom.co.ke68030.566763479f80f76-a362-4451-aade-647fad1f905d
+corona.safaricom.co.kesafaricom.co.ke"['hackertarget' 'crtsh']"{}subfindersubdomain.891026300affd71-26e9-490b-870f-5c7df8a833e5
+county.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.61856446d9d04ce-fbfd-4f4c-a3d6-ebd88d15116d
+cpanel.domains.safaricom.co.kesafaricom.co.ke.74998071830ee4d-6bd2-4506-819b-b4328ead88f0
+cpcalendars.domains.safaricom.co.kesafaricom.co.ke68029.59967149fbbd4bd-1fe7-4f45-b72a-17faf232e6d3
+cpcontacts.domains.safaricom.co.kesafaricom.co.ke68029.8739102533cacba-f5d3-4c6c-88aa-3ba5069ab88c
+cpq.app.safaricom.co.kesafaricom.co.ke68030.377114331793484-8c43-4257-92e9-b685429b44e9
+crl.safaricom.co.kesafaricom.co.ke.8312552e7e9fd7d-d741-4353-869a-5103377d75c4
+crm.app.safaricom.co.kesafaricom.co.ke68030.168058faf46c49-92fb-4ccb-8f91-75ed016f0450
+crm.igw.safaricom.co.kesafaricom.co.ke68029.586162828dcaa29-7ab1-4ecb-823d-6ffb30716841
+crm.jnlp.safaricom.co.kesafaricom.co.ke68029.830165188287f3c-0991-4f1b-92dc-d2e530a74fe9
+crm.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.36739524b32029-9508-48d8-95e4-6fcf522c8b25
+crmdr.safaricom.co.kesafaricom.co.ke68029.8145614f87adc54-45e1-43b0-a229-3c09edd3dfe1
+crmprod.safaricom.co.kesafaricom.co.ke68030.351854398590b1d-7ce4-46a5-ada1-f9ac2f1e0e63
+crmsaf.safaricom.co.kesafaricom.co.ke68029.50370226277dc37-1927-4349-9f72-f421523f87d4
+cspportal.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.74364661e20f711-4168-4bb4-b77a-2eab4319baba
+customerexperience.safaricom.co.kesafaricom.co.ke.78156385ac65e22-456f-468a-8b4e-ecb8a7fb1e93
+customerexperiencenotification.safaricom.co.kesafaricom.co.ke18519386cbf38ee-d3d3-4d9f-a250-f3382c5ddfc9
+cvc.cardpayments-internal.safaricom.co.kesafaricom.co.ke68029.96001526cd1e86-532f-4f35-a920-f9e28435bd45
+cvc.cardpayments-uat-internal.safaricom.co.kesafaricom.co.ke68029.9246924f74e0bc7-0389-4f3a-bb40-c20b9f3c7e9a
+cxpreprod.safaricom.co.kesafaricom.co.ke.8525584efa57dd0-257d-45ef-bade-3a64ee9ce253
+cxpreprodnotification.safaricom.co.kesafaricom.co.ke.1275997d6085e70-c2b1-4532-b04d-b4b7d5ad0687
+daraja.safaricom.co.kesafaricom.co.ke.93035367af64863-2c89-4091-9893-5f4c05b82eba
+dcbatf2.safaricom.co.kesafaricom.co.ke.1658356e52bd749-8ec1-46be-b814-9fa789a4a207
+dcbatf3.safaricom.co.kesafaricom.co.ke68030.159529f2af79c8-c7a3-4b8f-8436-c07098f79c42
+de.safaricom.co.kesafaricom.co.ke68030.5788505875bc5-aeab-4c9d-af36-5c8b753b583d
+dealermvp.safaricom.co.kesafaricom.co.ke68029.57444763d03ed17-e992-43af-b59c-b789ee4adb57
+dealerportal.safaricom.co.kesafaricom.co.ke"['anubis' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.290444103b5262a-3cde-45a2-98f0-96252e087064
+dealers.safaricom.co.kesafaricom.co.ke.61979139dfce973-b02c-4cbd-954c-a93413c9f472
+deci-fgt01.ngao.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.761417462b2056c-73b8-465e-8afd-7e96010992ed
+deci-fgt02.ngao.safaricom.co.kesafaricom.co.ke.0431352116a9331-75f5-457c-a65c-5ffcb6e29816
+deci-fgt03.ngao.safaricom.co.kesafaricom.co.ke.43159134d2e42cd-3900-4269-b924-7c2961056af1
+decode.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh']"{}subfindersubdomain.972696887ed5544-9085-4266-a884-e7e48813acfe
+dev-fgt01.ngao.safaricom.co.kesafaricom.co.ke.4945016f5676fa8-e05e-4459-845b-8d200f195102
+dev-fgt02.ngao.safaricom.co.kesafaricom.co.ke.6458557d198e497-a481-42cc-a405-ef2471027ee1
+dev.business.safaricom.co.kesafaricom.co.ke68030.019312900751fac-7738-4d87-bf46-dc492106ad25
+devapix.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.3113904fa01d4b0-b575-4347-aed3-27bafcae009b
+developer.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.4908302e4932a08-67cf-41d2-9803-0957b8e9ac55
+devengine.safaricom.co.kesafaricom.co.ke68029.8785253865fbdc5-929a-45f1-b8e7-7d84029e451e
+devexperience.safaricom.co.kesafaricom.co.ke68030.142184334054d8d-b839-4cce-a601-223f9dc3339e
+devicesmanual.safaricom.co.kesafaricom.co.ke['anubis']{}subfindersubdomain.41604438bb6e24-3626-4a1c-99fb-b93e2b35afbc
+devlake.devsecops-uat.safaricom.co.kesafaricom.co.ke68030.1208131cf0c89a3-9f7b-496b-8508-ec1c92d50593
+devsecops.safaricom.co.kesafaricom.co.ke68030.33808661cc7ccea-318e-4dcc-99fc-652ca9e59514
+dialin.safaricom.co.kesafaricom.co.ke4749396388cdab6-10e9-45a4-b15f-f983c16564d5
+digifarmawsuat.safaricom.co.kesafaricom.co.ke68029.4218264b41ac00c-e759-4222-a187-13e38466895d
+diginoc.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.586575a44176b6-f61c-4e13-814e-5970dec89bdc
+domains.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.94336607ff89dc-9527-49fb-b1cb-7be761a23b36
+doortree00.safaricom.co.kesafaricom.co.ke.6901599a3652ca-76c0-4a9d-838c-30ea3a8d62fd
+dop.safaricom.co.kesafaricom.co.ke.725746440d98cb-fc58-4787-a38c-42725d55e536
+dopadmin.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.308925429970452-c96a-4c23-b65b-f71d67544403
+dopapi.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.39836345dfe782-fce4-45f3-b0d3-cd518190c363
+dubi.safaricom.co.kesafaricom.co.ke68030.8169186e25295d5-90bb-4964-8a10-49b83bda36c8
+duo.safaricom.co.kesafaricom.co.ke68030.9738982f9643854-5e47-4409-b802-5bd7360acff1
+dwp.remedy.safaricom.co.kesafaricom.co.ke68030.2766006d800c5bb-7b45-414d-b003-135b0313adca
+dxl-uat.dxlapi.safaricom.co.kesafaricom.co.ke68030.272075df387464-a373-43f0-bb55-38ca46732056
+dxl.dxlapi.safaricom.co.kesafaricom.co.ke68030.463793db62c03a-26a1-416e-bc91-0bb30ac3d821
+dxl.safaricom.co.kesafaricom.co.ke68029.844759af692508-bd37-483d-8947-cd2c852dfb7f
+dxlapi.safaricom.co.kesafaricom.co.ke68029.54111726060c890-ec80-4b14-9bfe-d670cebfa2c4
+dxlapiazprod.safaricom.co.kesafaricom.co.ke68030.764645602b33443-27e2-4b77-bb3b-597f29ca79bf
+dxlapiazuat.safaricom.co.kesafaricom.co.ke68029.9339108a1292075-8341-4f1e-ad0d-07357d20e317
+dxlportalazprod.safaricom.co.kesafaricom.co.ke68029.55453737e6a4d16-01ee-47c0-bc24-dd3eefd7995b
+dxlportalazuat.safaricom.co.kesafaricom.co.ke68030.289248289f1cf80-6611-445f-b994-764c14620ef4
+dxluat.safaricom.co.kesafaricom.co.ke68030.34031033e5495f5-78df-4c7b-a55c-af290706aa00
+dynatrace-alert-dev.safaricom.co.kesafaricom.co.ke68030.3205362d3dceae-4db5-4c85-9957-60b987dd1c67
+dynatrace-alert.safaricom.co.kesafaricom.co.ke68030.22318533441200a-5606-4816-8d93-a8c837c9b8d4
+dynatraceadapter.safaricom.co.kesafaricom.co.ke68029.777785a5b5981e-97bb-4e65-92be-3777d7a2bce7
+e-learning-public.safaricom.co.kesafaricom.co.ke"['digitorus' 'hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.13904624a9ee2b7-a688-4a9f-b059-a5afef22cab2
+eai.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.8131330fa49f83-88f5-4772-9be1-6c665abbe676
+eaitest.safaricom.co.kesafaricom.co.ke68030.0810874fb68d7ed-a1b7-4dd9-8f6b-07e6a532a530
+ebill.safaricom.co.kesafaricom.co.ke['anubis']{}subfindersubdomain.342563402d103ad-b45f-4461-b270-55f32ac08385
+ebuautomation1.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.5105753a20afdb6-bf2a-4be8-9188-7dec0fbd012f
+ebuautomation2.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.1691823cb1b3c35-2190-417d-8ac7-d93dd0f32095
+ebuloyalty.safaricom.co.kesafaricom.co.ke68030.4102733d93830f5-442d-4b33-895f-91581194cfe1
+edms.safaricom.co.ke.72238616321e600-77c5-431e-a69f-6c61b2982265
+edmsinternal.safaricom.co.kesafaricom.co.ke.688977f94d2462-dac0-4048-bde3-003dc2eabd81
+edmstest.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.5579808ad78b4f6-bd1e-4db1-90d4-e9fde0d99b49
+edmstest1.safaricom.co.kesafaricom.co.ke68030.80565075c2923d7-c504-4d05-8da9-d04cfbbb0e6b
+eflow-nps-uat.safaricom.co.kesafaricom.co.ke68030.3031547366f6e1a-73f2-4430-81d8-f449c726235c
+eflow-nps.safaricom.co.kesafaricom.co.ke68029.5332968d94f8ecc-484d-4f9e-ada4-b1d27f6212c6
+eflow.dxlsandbox.safaricom.co.kesafaricom.co.ke.08687958c16e94c-2a30-4b0e-84a4-ecea336433ef
+eflow.safaricom.co.kesafaricom.co.ke"['digitorus' 'hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.9029133b9e11048-2046-4ec1-a88f-51d6247bebf6
+egainassets.safaricom.co.kesafaricom.co.ke030.19448554f078dd-7159-45c0-a9c8-60c178401db1
+elearning.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.02746816b51044-2df0-4aa2-bd5a-4d4b738df745
+eliud159.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.4557533bcdf05e6-ec8a-42c8-afc6-a981813c2ad5
+employee-uat.safaricom.co.kesafaricom.co.ke"['hackertarget' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.884431a5fee622-e63d-4229-b27f-f8a917bbf7fb
+employee.safaricom.co.kesafaricom.co.ke68029.5484207247e8157-99fd-4782-a503-766b7bdad60d
+employeesuperapp.safaricom.co.kesafaricom.co.ke68029.99558840a7838b-680c-4d3d-aa45-70c566c43d63
+enterprisebusiness.safaricom.co.kesafaricom.co.ke68030.3588195e8ea3989-ab6f-4f11-aa84-fa1c748e9aa9
+enterpriseispsystems.safaricom.co.kesafaricom.co.ke.191121685642304-a312-438f-9b4e-323f58568009
+entertainment.safaricom.co.kesafaricom.co.ke68029.8222234d0ac1e89-74f2-4fcd-a06e-993af3e413db
+erpebsidcs.safaricom.co.kesafaricom.co.ke68030.23241287fd838f8-8f64-45eb-8df8-75fd51d6a937
+erpprod.safaricom.co.kesafaricom.co.ke.477872f219a12f-3f01-4cbe-a76f-0bc6cfb1a620
+eventsmanagementuat.safaricom.co.kesafaricom.co.ke68029.76907592790bb9d-592f-47b5-997b-d21bf731c5bb
+ew-fgt01.ngao.safaricom.co.kesafaricom.co.ke.5654707ea9fe8e8-813a-4f7c-a187-b4ced2151b99
+ew-fgt02.ngao.safaricom.co.kesafaricom.co.ke.62429369a13b241-6caa-4157-b336-9bf997e5bd8a
+ew-fgt03.ngao.safaricom.co.kesafaricom.co.ke.9361916de40ba44-39bc-4fda-9b19-535fec4a1ec3
+express.falcon.safaricom.co.kesafaricom.co.ke68029.7422364118510e7-7ec4-4ffd-80ab-719b76d2fd91
+f5.eiom.safaricom.co.kesafaricom.co.ke68030.97503540306da4d-b187-4e8f-8337-9200d3e402a3
+fafanuka.safaricom.co.kesafaricom.co.ke"['anubis' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.5940092d34dca8b-e0c1-483d-9aa5-a84a8c15b028
+falcon.safaricom.co.kesafaricom.co.ke68029.4180038c3c33f79-7496-4117-b1ad-6cbf2c5b6890
+faz01.ngao.safaricom.co.kesafaricom.co.ke.2917066c8c9a9fd-52ad-4c74-b7be-bd0d2a632682
+fieldservices.safaricom.co.kesafaricom.co.ke4254003d357ec32-010d-4456-9dfe-4617f9c53b45
+fixedacsfsprod.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.49456450693323e-4029-459b-b649-63a83ac18e06
+fixedacshfsprod.safaricom.co.kesafaricom.co.ke.6482012137f0cf-8ecb-4ac6-8c3e-f5536b4425d8
+fixedacsprod.safaricom.co.kesafaricom.co.ke68029.534295390cec625-782e-49dd-916a-e47fc44428d8
+fixedacstest.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.584259327b6f246-6a6d-4d87-bcf9-1544181f2203
+fmg01.ngao.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.45825089d7e91b5-df1a-423e-948b-37502ac09921
+foryou.safaricom.co.kesafaricom.co.ke"['hackertarget' 'anubis']"{}subfindersubdomain.76099425bb19fe0-eabf-4d83-8852-4b89497a004f
+franchisesimswap-uat.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh']"{}subfindersubdomain.38514731fbdd63e-c222-49e9-b9ae-6258b6166419
+franchisesimswap.safaricom.co.kesafaricom.co.ke68030.2070458754335b2-d035-403d-be3a-140685e2badd
+fs-partnerportal.safaricom.co.kesafaricom.co.ke68030.6620803ad067c30-ec65-4360-83af-9a585d4ee753
+fs.safaricom.co.kesafaricom.co.ke.9724185744544eb-6008-4b14-8677-c1e1af883ffa
+fsawsdev.safaricom.co.kesafaricom.co.ke68030.3622026cad0075d-c748-4714-a2be-5ec32ae97877
+fsawsprod.safaricom.co.kesafaricom.co.ke68030.6413577e61ada6a-c74c-497b-8ee5-2c71010b7284
+fsdev.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.3076568f8ffdaf6-8019-40ab-abdf-4b3dcc08014b
+fsprod.safaricom.co.kesafaricom.co.ke"['digitorus' 'hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.71031713f8796ef-76a3-40fc-9dd4-410d46cf389a
+fsuat.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.674611811c66592-07f0-4750-ad91-3e100a239c68
+ftth.safaricom.co.kesafaricom.co.ke"['anubis' 'leakix' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.537476b1a4bc2c-389a-4ca9-8113-eb5c9adec6ed
+g1orgm-pesa.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.4417088f1466d50-f800-4440-bf63-88f0e61f04b5
+git-uat.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.284759519030e09-1f4f-468c-ad05-65c7398de105
+gitlab.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh' 'anubis' 'digitorus' 'hackertarget' 'alienvault']"{}subfindersubdomain.2561316033e19be-d985-492a-b709-301abc16e463
+golftour.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.4731185d0ef9adb-cdf0-4de1-9243-0f1600cb5269
+grafana.safaricom.co.kesafaricom.co.ke68030.504843553ab4add-44e5-4101-8950-bc625f367ebc
+grafanauat.safaricom.co.kesafaricom.co.ke.5907295be6ab770-07fc-4415-8e7b-41dbf1ae8dcb
+grcuatweb.safaricom.co.kesafaricom.co.ke68029.6946738c2391b49-c218-4de6-a1d5-a6150feb37b7
+groups.safaricom.co.kesafaricom.co.ke68029.4869566bf131acd-a974-4998-988f-2e7ccf58d64c
+iamoss.safaricom.co.kesafaricom.co.ke68030.853797464f5f74f-a9d6-4d3d-a589-4202d47a54b2
+iamsoss.safaricom.co.kesafaricom.co.ke68029.8211668c1298e67-5bcf-49d9-9308-85263849636b
+iapapp.safaricom.co.kesafaricom.co.ke68030.273211276bc26be-ddab-42ce-a1e9-b0da5eb0e58b
+ic-dxluat.safaricom.co.kesafaricom.co.ke68029.46399642f1e76fc-3000-4d81-8cb1-613604799897
+idm.safaricom.co.kesafaricom.co.ke68030.928021b78f5d91-8fac-44d9-9ccd-3fa588506807
+ilearn.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.603549008fb98a-87f2-446c-81a5-b9850d0a7b86
+industrydigitaltalentprogram.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.27426933de72ba-0a8f-41c7-9a29-1c9aef65fb1e
+insights.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.31024611c9b238-a539-4b0f-97d2-71bd488f2353
+insights360.safaricom.co.kesafaricom.co.ke68030.5173223241390b8-6bde-43ac-b4f9-621c995c55e4
+insightsdev.safaricom.co.kesafaricom.co.ke68029.8090208ca409cc3-bbda-4586-8e0f-b6f80fc3f4f5
+internalapi.safaricom.co.kesafaricom.co.ke68029.96230844606ff8f-9232-4891-aa4d-384564474205
+internalapistg.safaricom.co.kesafaricom.co.ke68029.645646899144f14-af27-4fb8-a5b1-ef732b935c9d
+internalsandbox.safaricom.co.kesafaricom.co.ke68030.250621661c43ab9-321a-43e1-87fe-5fd1a4fc86e7
+internet.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault' 'dnsdumpster']"{}subfindersubdomain.75520753c8d2538-eef5-4dbb-9e43-3078e8ffa28a
+intlync.safaricom.co.kesafaricom.co.ke.032014467ce2cc9-9162-4d7e-88d8-b5965bffde14
+intranet.safaricom.co.kesafaricom.co.ke"['anubis' 'alienvault' 'crtsh']"{}subfindersubdomain.5952153530aec03-575d-43ad-b8e8-d1119dbfdb47
+intranet2016.safaricom.co.kesafaricom.co.ke68029.4470148bf6378f2-cd6f-4d89-bfd0-e830ea732b6a
+iotbasestationmanager.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.60329639a9a703b-b433-4db9-9ade-42fbc7263003
+iotsimcontrol.id.safaricom.co.kesafaricom.co.ke.568945c564bc7d-900e-49ec-b35d-f04b3fef4e05
+iotsimcontrol.safaricom.co.kesafaricom.co.ke"['anubis' 'alienvault' 'crtsh']"{}subfindersubdomain.836483564dfd8f9-edf6-4751-beec-962597233e2f
+iotsimmanagement.safaricom.co.kesafaricom.co.ke.932727806af9442-a274-4f90-a941-155f2b8411d6
+iotsimportal.safaricom.co.kesafaricom.co.ke.905314446ab41d3-7591-4865-ae17-821fff98ae3c
+ipeawsuat.safaricom.co.kesafaricom.co.ke68030.182494227a42ee5-cf91-4e22-bffd-2deabe620420
+ise.safaricom.co.kesafaricom.co.ke68030.2777247494a9ce7-bfa2-4946-93d4-8966f8d8754d
+itcacti.safaricom.co.kesafaricom.co.ke68029.7093241d1b331c2-3da6-4c6a-bb65-91bce8073f70
+itower.safaricom.co.kesafaricom.co.ke68030.3348203ca7d8e39-a224-4964-bbdf-bb7bedf19fad
+itvc.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh' 'anubis' 'leakix' 'hackertarget']"{}subfindersubdomain.78534158f8c0664-f087-430b-b84c-b851dc324fdb
+itvpn.safaricom.co.kesafaricom.co.ke945844740c2c63c-ec62-44b6-8715-989ca5603ec2
+jasper.customerexperience.safaricom.co.kesafaricom.co.ke.264310668063866-5055-47fd-99b6-ac5cc8cb1dcf
+jenkins-de.safaricom.co.kesafaricom.co.ke.602229426a447b3-9bfe-4ed4-9354-44b2054b9db8
+jenkins-uat.safaricom.co.kesafaricom.co.ke.5809648577704b0-d6d0-4b82-8a77-bb6b519db6da
+jenkins.safaricom.co.kesafaricom.co.ke68030.48601232dac28b-38b2-49d3-9d20-bd4f1d00cbea
+jfrog-uat.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.91249783f6e9f46-cdd2-4af0-8717-b0f632912327
+jfrog.jenkins-uat.safaricom.co.kesafaricom.co.ke68030.11321556e440c8-bad2-4163-adbe-1a21676cc8ab
+jfrog.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.5348763a7cd5ef2-3b4c-4211-9266-da5d6dcdf7f0
+jiandikishe.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh']"{}subfindersubdomain.9917525ae653a-eb1b-49c2-87df-0f21045d903b
+kandarasi.safaricom.co.kesafaricom.co.ke7445223c078b4a5-8374-4cef-8051-e0b9e8c5b037
+keeptheconnectionsgoing.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'hackertarget']"{}subfindersubdomain.85227872652d92-24b2-4fd5-ad2a-705747c0a440
+kinga.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh' 'anubis']"{}subfindersubdomain.80022365dc01639-4d1a-45ad-9d19-9ba56d9f21c7
+kiosk.safaricom.co.kesafaricom.co.ke"['hackertarget' 'crtsh']"{}subfindersubdomain.2585697ee263e2a-b0f7-40ee-82c7-8f671b9ea065
+lendingplatform.safaricom.co.kesafaricom.co.ke68029.961148353580f65-6ba1-4e09-bf16-1de9e1afe4b1
+lync.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.794320654881f96-984b-444c-bf2b-6124bb225a2b
+lyncadmin.safaricom.co.kesafaricom.co.ke.7702026bf273661-d574-450e-bc88-19c344f2c59a
+lyncdiscover.safaricom.co.kesafaricom.co.ke.483575a8dcf9f3-2077-4eb4-bf33-c616a897adfd
+lyncdiscoverinternal.safaricom.co.kesafaricom.co.ke.0308373b3c55e5f-93b7-4f18-9613-ccc950559690
+m-pesaclosedloop.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.6714189f2869ee-e399-420e-83f4-a4e2867b13cb
+m-pesaforbusiness.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.574227824df0c7a-441a-49cd-9693-addd132270c6
+m-pesastatements.safaricom.co.kesafaricom.co.ke68030.899380436248618-e2eb-46f2-9b8b-6f5df846eae5
+mail.1960edwards.safaricom.co.kesafaricom.co.ke.1767929f8109aa6-925b-4849-b02b-238604f53ba7
+mail.anthonarttey76.safaricom.co.kesafaricom.co.ke.9762154a6f1dfc1-73a3-4b1b-a103-f8541b2cb102
+mail.anthonyatt.safaricom.co.kesafaricom.co.ke.5314658a52ebedc-929a-4e71-84f1-fab0d9f8c365
+mail.anthonyattorn.safaricom.co.kesafaricom.co.ke.0612767dae2eb43-6247-41db-ba60-9bac7f5f0185
+mail.anthonyattorne.safaricom.co.kesafaricom.co.ke.2400873467d18d9-ff44-4342-b81f-cdaa16fdce89
+mail.domains.safaricom.co.kesafaricom.co.ke.96703081cf4f0d8-d2fe-4a45-a62c-83aea25dcbb5
+mail.doortree00.safaricom.co.kesafaricom.co.ke.044340801488de2-bb04-4ee6-a20a-5ae3cd54449f
+mail.nationunited079.safaricom.co.kesafaricom.co.ke.6994317fd2c73bc-a93b-4f92-a4ae-18dc3398b857
+mail.office.safaricom.co.kesafaricom.co.ke.6020467840c617e-6266-49aa-8562-a03acdf47d04
+mail.safaricom.co.kesafaricom.co.ke.932706d922b92c-c4fa-482f-ba43-503c4825e1a6
+mail.thonyattorn19.safaricom.co.kesafaricom.co.ke.3125741b993568a-3776-44b7-b5ed-6c31711bdce1
+mail.tionunited079.safaricom.co.kesafaricom.co.ke.7170753d1a6df52-e540-4476-b18e-b6888042b36a
+manage.safaricom.co.kesafaricom.co.ke"['hackertarget' 'dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.8277125c25949cc-ec9c-44db-8ef2-9614059591e2
+maps.safaricom.co.kesafaricom.co.ke.468433843494c0-c8e6-4aab-8291-2e3ed503420d
+maps.telematics.safaricom.co.kesafaricom.co.ke"['hackertarget' 'dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.073752620ef67c0-7497-4beb-8489-e8f4c28d2ad9
+meet.safaricom.co.kesafaricom.co.ke8380175c1a99eb6-8b33-43c1-bc0a-ad29e59e13e6
+mfa.safaricom.co.kesafaricom.co.ke68030.688673520742f56-6d8e-41f4-8346-1740cacd09f3
+michaeljosephcentre.safaricom.co.kesafaricom.co.ke68029.625247738d0b1e7-4725-4e62-bbb4-62bfe0c56060
+miniapp.safaricom.co.kesafaricom.co.ke68029.5602186bce248ec-ad7a-4305-a91e-96076fb13c80
+mjc.safaricom.co.kesafaricom.co.ke"['leakix' 'alienvault' 'crtsh']"{}subfindersubdomain.78393582d274f73-f9f9-45f0-8cac-8580917687a3
+mobilemail.safaricom.co.kesafaricom.co.ke.564298422d1e058-3ec5-4a30-be9b-1d669fd51fa0
+mobilepass.safaricom.co.kesafaricom.co.ke.632920788d25242-1f6c-4abb-973f-67b64bb08c1b
+mocha.safaricom.co.kesafaricom.co.ke.3995144d54bfc33-3415-43cf-96e7-47d1038d3e3a
+monitor.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.6995628ccbfd90-3b70-4dbb-98cb-945fccf12d68
+moservices.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'hackertarget' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.4342098e7ad894d-6647-42f8-bfcc-682770918453
+mpesa-applications.safaricom.co.kesafaricom.co.ke"['leakix' 'hackertarget' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.606101c0555608-ddc5-4b39-b68b-dd7d50f399d4
+mpesa.safaricom.co.kesafaricom.co.ke['anubis']{}subfindersubdomain.686914387fa544-a2e2-4490-a0f8-6baad9e1dd33
+mpesa1tapgw.safaricom.co.kesafaricom.co.ke.06701231a46ee5e-351a-4c15-821d-71dc3e5ca2d7
+mpesa1tapgwprd.safaricom.co.kesafaricom.co.ke.9172566be2a0220-4e32-4e71-8876-e3d6188335cd
+mpesaforbusiness.safaricom.co.kesafaricom.co.ke.6397865431c3637-0d84-40f2-abcb-29177871461e
+mpesaminiapps.safaricom.co.kesafaricom.co.ke"['leakix' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.9786487e9c112ed-313f-4266-9500-3bf4523896c5
+mpesaod.safaricom.co.kesafaricom.co.ke68030.30094395ab8e7df-4b17-4990-bae2-913c6e414d8d
+mpesastatementverification.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'digitorus' 'hackertarget']"{}subfindersubdomain.42180280bf462d-f8e3-4f57-931d-e5122a9dba73
+mtahiniwa.safaricom.co.kesafaricom.co.ke.6957943b9ae7c88-afc5-408c-b8b8-6379af1dd843
+myaccount-uat.safaricom.co.kesafaricom.co.ke68030.3748016fde8e3f3-08e2-4e57-a1be-127b4c1a3e58
+myaccount.safaricom.co.kesafaricom.co.ke"['hackertarget' 'crtsh']"{}subfindersubdomain.52611351525e7d8-5fc3-4d24-aab1-640717721ad6
+mysite.safaricom.co.kesafaricom.co.ke68029.6669235a23fa075-09e4-4d0c-8dbf-ff80ab9aca39
+nationunited079.safaricom.co.kesafaricom.co.ke.6982157e9ba3fc-c7d5-471d-83fb-e69adb6e9108
+nchinampesa.safaricom.co.kesafaricom.co.ke['anubis']{}subfindersubdomain.53643567123faf0-5656-415a-9e5f-74920b228be2
+newsroom.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.5245337776ddfc8-3535-4b8e-96e3-ff70c9eaa9e8
+ngao.safaricom.co.kesafaricom.co.ke.95026a98c71b4-a1b3-499a-a12b-5263cd10fbc1
+nikonasafaricomlive.safaricom.co.kesafaricom.co.ke17378476a86f32c-26d1-4748-87a9-8728ab597278
+nipashe.safaricom.co.kesafaricom.co.ke"['hackertarget' 'crtsh']"{}subfindersubdomain.2312754759d2af-e6f2-4eed-a5f6-97f4e69eeabf
+nsagee.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.065857c9a7757-52c7-49bc-bc75-8a7d5f1b6e08
+oda.safaricom.co.kesafaricom.co.ke68029.9068167f10c8c2a-733e-40b7-a1d9-756c91795eed
+office.safaricom.co.kesafaricom.co.ke.765792907beb96-8e3d-4b84-a253-13959f3e9091
+oms.app.safaricom.co.kesafaricom.co.ke68029.67711e6b4336b-c901-48d2-b65e-5ee66213016b
+oms.auto.safaricom.co.kesafaricom.co.ke68030.48715474c8881b4-b5b5-45e7-bdff-1351e468ec62
+oms.extapi.safaricom.co.kesafaricom.co.ke68030.1612093c31f28c9-0e14-4f0d-ad81-2701e380a089
+oms.jms.safaricom.co.kesafaricom.co.ke68030.81862148a2dca36-d691-4123-9518-6cf7fc8cba26
+oms.jnlp.safaricom.co.kesafaricom.co.ke68030.508240785d6285d-3f42-499a-adc4-1c06ff1f251e
+oms.lock.safaricom.co.kesafaricom.co.ke68030.0020044c259f42e-806b-4122-85b0-7eadf070e00f
+oms.recov.safaricom.co.kesafaricom.co.ke68030.924548a5675296-46eb-43d2-ac3e-c6093f0f3ec7
+oms.sim.safaricom.co.kesafaricom.co.ke68030.65306076788c9aa-67a9-4567-9bda-ce22d0818088
+onboarding-upload.safaricom.co.kesafaricom.co.ke68029.54220063d2d49b2-338c-4363-9973-f305db0bc797
+onboarding.safaricom.co.kesafaricom.co.ke68030.48048351db99fb2-703f-4892-8930-beba70285bfc
+oos.safaricom.co.kesafaricom.co.ke68029.4458729b8cd89d-757c-4126-9042-86c2d94b4cfa
+openyoureyes.safaricom.co.kesafaricom.co.ke['anubis']{}subfindersubdomain.9209435cd36858f-0989-4c1f-9c15-143b096cacf3
+org-oat.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.2253718396028c9-f000-456e-a687-ace5763242c5
+org.mpesaforbusiness.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.4731867812bd2a7-91be-4c66-a70d-2e2a835394b6
+oss.be.safaricom.co.kesafaricom.co.ke68029.3567207c11ff077-7671-4744-8d2c-a8d658fb2b94
+oss.fe.safaricom.co.kesafaricom.co.ke68030.341399397aa7d9-601f-45db-929b-3a6f86706592
+oss.ossui.safaricom.co.kesafaricom.co.ke68030.8980346f0f6a10f-1aae-41e6-bec3-f996d4a667d7
+oss.safaricom.co.kesafaricom.co.ke68030.27541047d61193a-5a8f-4238-9f69-1c1f52cdd509
+ossiamslb.safaricom.co.kesafaricom.co.ke68029.9587884e0a287a7-f240-40ab-9dfc-0709e50308a1
+ossiamsuat.safaricom.co.kesafaricom.co.ke.10105292653138-e0cc-4b92-bfd8-d0839f45f9c1
+owa.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.629098483c915df-bdd0-4312-af8b-7c61c673d263
+partner-onboarding-portal.safaricom.co.kesafaricom.co.ke"['digitorus' 'hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.6469076056aa3fc-972a-4da8-a4f9-aa0ff905f3d7
+partnerhub.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.0353816bbe9dee5-6050-4eca-b5b2-9ef8a45a7a4a
+partners.safaricom.co.kesafaricom.co.ke.22897324ed1f50c-4308-4928-9777-196745a51bad
+partnerworkspace.safaricom.co.kesafaricom.co.ke68029.5929277fb9c3cbe-b150-4182-8736-1f8edff16a56
+payment-solution.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh']"{}subfindersubdomain.5209012bff08389-302f-4790-9ca3-2f873ea4f63c
+payroll.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.94193842d9d09f7-a23b-4316-9a96-6c5758443252
+pim.safaricom.co.kesafaricom.co.ke.67275299461a045-ed04-4ea2-8850-e5cd4613d0bc
+pimaim-uat.safaricom.co.kesafaricom.co.ke68030.42787310ed35354-79e3-41e5-b0f6-75301da19cc5
+pimhtml5.safaricom.co.kesafaricom.co.ke68030.3611052798c2d9-1b3e-4feb-a0f6-c2b998a13a45
+pimuat.safaricom.co.kesafaricom.co.ke68029.83692224e6f52a2-2e2d-4271-a0cf-cd9143e82e18
+pool1.safaricom.co.kesafaricom.co.ke.7954834d89b87e7-767b-4865-9ddd-a48afd95ccfa
+posretailprod.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.432816b11a5bb2-3bb2-4e21-a105-457978470888
+posuat.safaricom.co.kesafaricom.co.ke.29409622ac63cdd-50a6-499b-9db0-bdd38c56bb76
+preprod.eflow.safaricom.co.kesafaricom.co.ke68030.2334952d242cf31-0ca8-4e9e-993f-b384bb494c77
+pretups.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh']"{}subfindersubdomain.66091631a59d9af-3112-46d3-842a-b82c940f9103
+procurement.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.8638172954ca40e-59cc-4206-a46a-3ec5a003648b
+projects.safaricom.co.kesafaricom.co.ke.7866712b0eebb71-c5b5-49d6-98ec-08c76cb78aa7
+qlikinsights.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.5901554daa67513-c9c4-40bb-8827-47af6fde4c48
+qlikinsights360.safaricom.co.kesafaricom.co.ke68030.85489466bb7ec62-a009-4255-bfa4-b3400fb11cbf
+qlikinsightsdev.safaricom.co.kesafaricom.co.ke68029.8946726f3750f1a-6786-4785-8d77-fe295914f67c
+qlikinsightsdev360.safaricom.co.kesafaricom.co.ke68029.848045617bf0d6d-084d-45a2-a1fb-5cb40c567b88
+qms.safaricom.co.kesafaricom.co.ke.0623815dd345ea0-ffd6-46a4-9cd2-1b9e5c1fa323
+recruitmentquiz.safaricom.co.kesafaricom.co.ke68029.810140136be7b14-ada4-47ec-ae7e-1fbf9db217c9
+remaccess.safaricom.co.kesafaricom.co.ke68030.19331885af99c9e-4e27-4b2e-af27-9af5b33ebfe3
+remedy.safaricom.co.kesafaricom.co.ke.4823265c2e09c68-a402-4c20-9c3b-00e124141cb9
+remedy9.safaricom.co.kesafaricom.co.ke721822b514d35c-5d39-4e70-9614-16608e2e4cc0
+remoteaccess.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.099877442a9b710-0964-4ef7-8a43-98267da49020
+rms.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.616396e7163487-7740-422a-a700-dbf05e31e7ca
+roaming.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'digitorus' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.21039844963582e-3a70-4e59-9e68-7aafc75088cb
+saccosuitesolution.safaricom.co.kesafaricom.co.ke68030.519506723adae20-ebdb-4b57-8d19-799255c9d6fd
+saccosuitesolutions.fsdev.safaricom.co.kesafaricom.co.ke68029.6679754081c1d83-bd33-4471-bd05-e4868f0f94a2
+safaricom.co.kesafaricom.co.ke68029.925827792edca4d-0efa-48e2-8b43-651f03e7913f
+safaricomapp.safaricom.co.kesafaricom.co.ke.3724072441ca571-fc7a-49f4-91df-17218ed7177c
+safaricomapp1.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.698282884b697f-8209-4b4c-b61f-bbd837101a8a
+safaricombusiness.safaricom.co.kesafaricom.co.ke"['leakix' 'crtsh']"{}subfindersubdomain.42059282997f27b-b7e6-40db-959b-b3d37c3b285f
+safaricomcms.safaricom.co.kesafaricom.co.ke.80681669f490bca-350d-4f1d-9650-2447cba2c45a
+safehouse.safaricom.co.kesafaricom.co.ke"['hackertarget' 'dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.4290564931c91ce-ff2c-4cc6-8cc3-8f25e2311f23
+safvdi.safaricom.co.kesafaricom.co.ke"['anubis' 'leakix' 'alienvault' 'crtsh']"{}subfindersubdomain.6701919c536d2-f789-43b1-acf6-ccbe30812ba8
+safvditest.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.9851909e5521228-a448-4588-801a-6e1cd20644b0
+salama.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.633493297f36b-b44a-4225-9a2e-ad55e9ea8e55
+sandbox.falcon.safaricom.co.kesafaricom.co.ke68030.357716602abdcfb-d660-4dbd-aaf8-428393cfa4aa
+sandbox.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.6162548aa9fc666-d9c6-4700-b852-b59c2bb7b328
+sandbox2.safaricom.co.kesafaricom.co.ke68029.401823382e5f254-3847-4535-b730-2307945d9ec9
+savewithmshwari.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'crtsh']"{}subfindersubdomain.9737256e9132199-b7ee-4fd6-86d1-702f38490f0f
+sbom.devsecops-uat.safaricom.co.kesafaricom.co.ke68030.77557786cfe0cc3-e45e-4dd4-a3ef-745a0bcd53e8
+sbom.devsecops.safaricom.co.kesafaricom.co.ke68030.83481537cce9ca7-6716-43e3-8b86-e1a407fe3448
+sbsi.safaricom.co.kesafaricom.co.ke68030.62092284afce353-f6ee-4daa-b811-0692aca5e51d
+sbxstg.safaricom.co.kesafaricom.co.ke030.1452491eef5e1be-a860-42d6-9787-af30221f6f2c
+sdwan.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.952815530b71ea1-f5ac-48cb-b828-d5b78ed5d4ad
+sdwan1.safaricom.co.kesafaricom.co.ke68030.333764bf9fea77-f866-4c9f-9f2e-cca0197cf5dd
+sdwan2.safaricom.co.kesafaricom.co.ke68030.9291184c936ff30-500e-4c82-9b15-fdee6deb4165
+secure-customerexperience.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.360141576fe978e-fd44-40d8-9201-3425f9d33384
+secure-cxpreprod.safaricom.co.kesafaricom.co.ke.907711797c4414a-d3b4-43af-9a19-134ab1d4edb8
+secure.api.cardpayments-uat.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.355245f46850c1-58bc-4f99-bfe1-3168f6c36eb1
+secure.api.cardpayments.safaricom.co.kesafaricom.co.ke68029.3517718db34ce6f-a9e1-4abc-b018-4b307670518a
+seedapp.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.838274f04b2722-938b-4cfd-9bc1-6bac1d03a39f
+seedappuat.safaricom.co.kesafaricom.co.ke"['alienvault' 'dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.86598473bcf1c8f-3ac8-44d6-9082-f3c5a65ce643
+self-service.devsecops.safaricom.co.kesafaricom.co.ke68030.65137034ab9058c-a061-42b8-9040-29bdf33c7ed9
+selfcare.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'digitorus' 'alienvault' 'dnsdumpster']"{}subfindersubdomain.948953f93add8d-10c8-4207-9c94-4460354c68dd
+selfcareapp.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.05234437ec3394c-5b71-4add-8e47-b1c324a74909
+selfcareapp2.safaricom.co.kesafaricom.co.ke6150854b66a88bb-5cf8-4e4f-89d9-b90f6517a8f4
+selfcareapp3.safaricom.co.kesafaricom.co.ke68030.261877581234b18-538b-4b58-b9a7-01af49926550
+sentry.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.508752584c7ef7-6d66-4293-9035-9c8fdba043d6
+sfa.safaricom.co.kesafaricom.co.ke.6008098e3061f28-750d-4a15-b24c-0fb0f954f09a
+sfdc.safaricom.co.kesafaricom.co.ke.36560876f618c6a-3e50-40d4-acf3-41d28b697792
+shub.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.3868866b25ff207-ed03-4fdf-a3d1-5cf0bcfa605a
+shubdr.safaricom.co.kesafaricom.co.ke.815093805c2e37b-8386-48d4-9d56-a270ff928fb1
+shubtest.safaricom.co.kesafaricom.co.ke"['anubis' 'alienvault' 'crtsh']"{}subfindersubdomain.8672376dabb9c64-b16a-43ec-b6d2-601978c7cd3f
+shubuat.safaricom.co.kesafaricom.co.ke.938413fb93fee9-3af3-4e1d-b9d0-0db46c797d56
+sip.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'crtsh']"{}subfindersubdomain.587820328a24a01-4179-448e-87a0-87d6bab85449
+skiza.safaricom.co.kesafaricom.co.ke['anubis']{}subfindersubdomain.65722515204458-fed9-4e65-bd33-da2066369617
+smart.remedy.safaricom.co.kesafaricom.co.ke68029.45239194b19b19d-7536-48d7-8ffc-708f4540c494
+smartinventory.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.410141794a86253-cef5-4bf2-8817-934a2c77a3e6
+smartinventorytest.safaricom.co.kesafaricom.co.ke68030.1021818fb7f627-36b4-465a-b4e2-c2e6fcd13784
+smartit.remedy.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'crtsh']"{}subfindersubdomain.2013511b6474b2-3e14-4f82-9d26-6c1b29af564d
+smartit.safaricom.co.kesafaricom.co.ke68029.42528990c313a2f-9ff2-4ec9-acd9-51df8ee6857e
+smartreporting.remedy.safaricom.co.kesafaricom.co.ke68029.7842171cf5fb3b-c383-4c34-92fb-036f81d3229d
+smeapp.safaricom.co.kesafaricom.co.ke.0941808f7447245-06a7-4d5c-8556-c6a13d3ea799
+smesales.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.780215505dc303f-13f9-465f-a59b-33c9ce942686
+smesales2.safaricom.co.kesafaricom.co.ke.7038164c4939c6e-93d7-43bd-894a-9e1c54acc85c
+smetool.safaricom.co.kesafaricom.co.ke68030.48969555644ae08-79dc-4e25-a8d7-4ed8d95c571c
+smtpgate.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'hackertarget' 'crtsh']"{}subfindersubdomain.950392d1902bef-ed13-4db0-bee7-6cfe54b6aea4
+smtpgate2.safaricom.co.kesafaricom.co.ke.091754219f31f33-cfdd-4ac1-bd67-28e0078f9d35
+smtpgate3.safaricom.co.kesafaricom.co.ke673281401a559b8-615f-459e-b5d1-32e3c0d54e82
+smtpgate4.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.9635103529b7ae8-641f-45cb-850a-b3d765ddd854
+smtpgate5.safaricom.co.kesafaricom.co.ke5227842824241e5-3f79-4a44-8995-5d86ac51cd7e
+smtpgate6.safaricom.co.kesafaricom.co.ke1623735e8738e3c-5045-48cd-ba70-189cca2fcd83
+smtpgate7.safaricom.co.kesafaricom.co.ke"['hackertarget' 'dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.9713326cacc4ce6-1071-475f-aba0-06e639d656e9
+smtpgate8.safaricom.co.kesafaricom.co.ke5150678d3fdc0ea-4c96-42f3-b8df-0bccc58d35ab
+smtpgate9.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'crtsh' 'anubis']"{}subfindersubdomain.8314676939b51e8-a8e3-49b7-89ad-3cc782edbf1b
+soasailpoint.safaricom.co.kesafaricom.co.ke68029.5985653c71028e9-c3dc-4552-bba0-b45869a8449b
+sonarqube.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.07870363c9a8d07-796c-4bdf-abe1-e3881fe38a12
+sonarqubeuat.safaricom.co.kesafaricom.co.ke.3484082a99d008b-dc6c-488f-b439-0523f29b58be
+sonarqubeuat2.safaricom.co.kesafaricom.co.ke.40564581f148ce5-d322-41aa-b313-e28e423d1368
+sp-oat.safaricom.co.kesafaricom.co.ke68030.9407182322c2d83-cfdc-4273-bf0e-f11d0edb1dcb
+sp.ke.safaricom.co.kesafaricom.co.ke68030.96063a6789e3f-ac86-4e85-89a2-4784d152d777
+sp.mpesaforbusiness.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.60559424f6d35fe-4c78-479d-a2d2-f7978a9f6daf
+sp2016webapptest.safaricom.co.kesafaricom.co.ke.2654356d0fbdce-b011-411f-8969-d471e9343733
+sparesmanagerapi.safaricom.co.kesafaricom.co.ke.5399319ea067b5-2f61-4671-986c-73c29cbe7ccd
+spotfire.customerexperience.safaricom.co.kesafaricom.co.ke"['hackertarget' 'crtsh' 'anubis']"{}subfindersubdomain.9749446f5b8b27d-37d1-45a6-940d-23453dccb5ff
+spotfire.cxpreprod.safaricom.co.kesafaricom.co.ke.964195736f49a6b-9bd2-4961-9dee-250c031ba4af
+sre-uat.safaricom.co.kesafaricom.co.ke68029.78889015c7dddba-c811-416b-a0ce-ffd01a28193f
+sre.safaricom.co.kesafaricom.co.ke68029.7050433b9929a67-b0b9-43fe-b12b-06009b9de549
+ssk-nec.safaricom.co.kesafaricom.co.ke.62552748552a01a-6b45-4628-917e-354b033f9acf
+ssk.safaricom.co.kesafaricom.co.ke68030.9666889a96368ce-cde0-441a-a418-9d1953ec98ea
+sslcertificates.safaricom.co.kesafaricom.co.ke.2058053e3fab7f6-e3e5-4fa2-9912-8ee1a99ca2d4
+sso-oat.safaricom.co.kesafaricom.co.ke68030.1980464c8600e4e-98b0-4b83-a4cc-da654580b7ae
+sso.remedy9.safaricom.co.kesafaricom.co.ke68030.79001620f23e85f-15df-48b1-b647-bc43c13b94e6
+sso.safaricom.co.kesafaricom.co.ke68029.5591636867674f5-680a-46ad-a651-312ca1c2a9a9
+subreg-portal.safaricom.co.kesafaricom.co.ke68029.5918174f3951490-1870-4816-8607-c6fce294ed8e
+supportdesk.safaricom.co.kesafaricom.co.ke68029.7488654e665f1ed-12e0-47da-97d2-e1d6cfdb7cb4
+surepay.safaricom.co.kesafaricom.co.ke.8535793006824c6-54f8-4e75-945e-a9328e47f979
+svdt1pim2html5gw01.safaricom.co.kesafaricom.co.ke68030.018081941e2a61-07bc-454a-89b3-78d55e951d0d
+svdt5pim2html5gw01.safaricom.co.kesafaricom.co.ke68029.577708259c5946d-3fab-4a45-a01f-8b03af1d91f5
+svdt8pim2html5gw01.safaricom.co.kesafaricom.co.ke68030.0799422d76f88bc-4133-4ed4-927f-501dc7e45721
+swaggerhub.ipesandbox.safaricom.co.kesafaricom.co.ke68030.5447872a10a8d0-7c28-4420-8feb-f9f002bf8b81
+symfact.safaricom.co.kesafaricom.co.ke68030.76342323875eca-6099-4f60-a71f-10fc286d1a57
+takethetime.safaricom.co.kesafaricom.co.ke['anubis']{}subfindersubdomain.3645248f721e32-190e-4b8f-be1b-9dd7563d77a4
+telematics.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis' 'digitorus' 'hackertarget' 'dnsdumpster']"{}subfindersubdomain.7104652b037e271-2292-4946-b3a7-0c4306cf1be0
+tesinvoices.safaricom.co.kesafaricom.co.ke.54722148f4312ce-b6cc-4a27-a4bf-e8a336b94acc
+test-bicp.safaricom.co.kesafaricom.co.ke68029.58515802ae5082-9823-4a28-a521-c42f11b4a003
+test-org.safaricom.co.kesafaricom.co.ke68030.0601623c95a7531-864a-4193-a290-bcdfd1f7d74c
+test-sp.safaricom.co.kesafaricom.co.ke68030.8113353c84e41ee-975c-4db9-9695-d4d4fea76f8b
+test-sso.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.5831819d58b2c20-f30e-4e69-8687-6024b61140a2
+test.business.safaricom.co.kesafaricom.co.ke68029.9045105107cfccd-b744-4cfc-b584-37a97d750d78
+test.chamasoft.safaricom.co.kesafaricom.co.ke"['anubis' 'digitorus' 'crtsh']"{}subfindersubdomain.9817069b1430521-5e31-4aa9-8cc1-d54156b739b1
+test.safaricom.co.kesafaricom.co.ke68030.020569d87d807c-385d-4259-9ff8-8e344af419dc
+test.uat-business.safaricom.co.kesafaricom.co.ke68030.352999765900848-7481-4cff-98d3-c33dcf4cc879
+testapp.cpconsumer.safaricom.co.kesafaricom.co.ke68030.4378322a10d834-8f81-4d45-a8d9-e005172423dc
+testitvpn.safaricom.co.kesafaricom.co.ke68030.9315448a05961fc-255d-4dec-822d-e29d4f29fe4f
+testsparesmanager.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.3927171fd1ac4c6-151b-4aa3-9570-50e9683b80c6
+testvpn.safaricom.co.kesafaricom.co.ke68030.8871057f03b67f0-f2c2-4118-90e8-bbf8cf11eb83
+thefuse.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.83245184eb69217-b7e9-49a3-bea9-7b5e223d6967
+thegrid.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.6009095b32dce3-d439-4b41-b9a4-a46d493eb348
+thibitisha.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh' 'anubis']"{}subfindersubdomain.40296626478082-163b-42bb-9085-6f2b590ee258
+thonyattorn19.safaricom.co.kesafaricom.co.ke.49231822d1c9d61-20a1-4433-b14c-0a21edfcef4f
+tionunited079.safaricom.co.kesafaricom.co.ke.0511534f937d02d-4aba-4719-9e62-5c5b53852984
+treadstone.safaricom.co.kesafaricom.co.ke68030.104424510ec30a-e8c2-4b1d-9125-469d376c1582
+treadstone1.safaricom.co.kesafaricom.co.ke68029.87282545f0bb2cc-0f0d-4b3a-9f83-4e6776049ae6
+tunes.skiza.safaricom.co.kesafaricom.co.ke68030.6219566e693fdd0-675e-421e-9ddc-12b2cee80cf2
+twawezalive.safaricom.co.kesafaricom.co.ke5630443cccbedea-755f-45c3-8f4b-ebdb7bce645b
+twendekwastreets.safaricom.co.kesafaricom.co.ke.726924722a6bbdd-c112-44f5-8a9a-bff7805f64a7
+u.safaricom.co.kesafaricom.co.ke68030.28120857e10cb84-3266-411d-bf6c-8cf4a77cbe0f
+uat-admin.business.safaricom.co.kesafaricom.co.ke.4957476c7b8dd6-ea23-49d2-a4ef-468a8b6b7f45
+uat-bongarewards.safaricom.co.kesafaricom.co.ke"['anubis' 'alienvault' 'crtsh']"{}subfindersubdomain.6317239f430ac47-ee93-4574-95d0-6cb00e622ac5
+uat-brand-content-hub.safaricom.co.kesafaricom.co.ke68030.4416313df347d47-c997-418b-a151-da1e9a327d3d
+uat-bulkemails.safaricom.co.kesafaricom.co.ke68030.25974355240f9d0-d6df-42cb-9565-cc976c4bbea0
+uat-business.safaricom.co.kesafaricom.co.ke"['digitorus' 'hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.15462780657f25b-9506-485c-86f8-37cedd2adebe
+uat-ebuloyalty.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.643591617349e41-c2f3-444e-baac-b21241e71fe6
+uat-ftth.safaricom.co.kesafaricom.co.ke.670700866fc9e12-995b-417a-8eb0-f535d25b012e
+uat-industrydigitaltalentprogram.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.319314750cbaaa4-04a9-475c-90a8-8be80d5726e6
+uat-internet.safaricom.co.kesafaricom.co.ke.965438441ff132b-a278-4802-9854-bf0c6452e6dc
+uat-iotsimmanagement.safaricom.co.kesafaricom.co.ke68029.912973622ec0bba-b0eb-43fe-a166-b13c83c8dfd3
+uat-mpesa-apple-auto-debit.safaricom.co.kesafaricom.co.ke68029.914950152c6ee55-9d76-4712-9552-0c1844647334
+uat-onboarding-portal.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.196875ccfa334-dd7d-4c91-a1a0-93261980a694
+uat-onboarding-upload.safaricom.co.kesafaricom.co.ke68029.7646852c2cf868b-bc65-48c5-94fd-df8e1d9ffb84
+uat-partnerhub.safaricom.co.kesafaricom.co.ke.4140947bfb6befd-f357-4458-88d5-4dc1b215ab20
+uat-selfservice.business.safaricom.co.kesafaricom.co.ke.5634735169bf019-16d7-47d1-add6-6ebbb9827722
+uat-sslcertificates.safaricom.co.kesafaricom.co.ke68029.6444881daacf19-9ba7-485a-8b46-4d373c98efa0
+uat-subreg-portal.safaricom.co.kesafaricom.co.ke.846951cc790dbf-2c77-4de1-a441-3a89b8a3f0f9
+uat-xprome.safaricom.co.kesafaricom.co.ke.190029476a500b6-e625-4008-a26b-f71c4ac3ceac
+uat.chatbot.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.617649812d7e40-9cad-41ed-8ec5-6f34fa556e3c
+uat.falcon.safaricom.co.kesafaricom.co.ke68030.73753549395dd9-d640-43b0-9d83-6cf0d5d3ebcf
+uat.magnify.safaricom.co.kesafaricom.co.ke"['digitorus' 'crtsh']"{}subfindersubdomain.347241c3d3325c-1d28-4c01-bc9d-df77963687cf
+uat.safaricom.co.kesafaricom.co.ke68029.8290628566b279-95be-4c76-8d95-5af6bf13d537
+uat.selfcare.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.1867034a868b1c7-f1db-46ba-9689-edb8eb915470
+uat1-ssk.safaricom.co.kesafaricom.co.ke.2152703c96a756a-052e-4a6f-9738-0d084a43ea66
+uat2-ssk.safaricom.co.kesafaricom.co.ke68030.07235225ea80089-b299-40ba-8198-21c1a934a54d
+uatintranet.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.404157219df3059-f81f-46ff-8725-e8ba8c752559
+uatsfa.safaricom.co.kesafaricom.co.ke.92706779ac469c-f5aa-4f55-a5af-9b997e589fba
+uni.safaricom.co.kesafaricom.co.ke.4789844dfef26fa-af33-43a0-ab58-9ec1d5aa10b5
+unittrustspportal.safaricom.co.kesafaricom.co.ke68029.69704257369a1c1-f45b-47a2-af8e-e64ba6f0a7a7
+utspportal.safaricom.co.kesafaricom.co.ke68030.11837779c84b7b7-f098-4a86-90c7-3a1fbc3e70a1
+uzima.safaricom.co.kesafaricom.co.ke"['dnsdumpster' 'crtsh']"{}subfindersubdomain.2002118b18d50a7-834a-43d0-b8fd-d795503f2d6e
+vault.safaricom.co.kesafaricom.co.ke68030.435147339a037d3-9d40-4a3e-a81a-66780fd93160
+vce.safaricom.co.kesafaricom.co.ke.7755895485d5c77-9322-4a25-a0e7-7ad30f5f2e55
+view360-uat.safaricom.co.kesafaricom.co.ke68030.72067557067f48-d2aa-425e-9fab-6587b1017494
+view360.safaricom.co.kesafaricom.co.ke68030.712741c9cf9043-de02-4808-8693-be82f70210bc
+vodasuretest-istio.safaricom.co.kesafaricom.co.ke68030.626812b510dfee-ed05-4efa-9b06-094654a4d154
+vodasuretest.safaricom.co.kesafaricom.co.ke68029.604540632a39983-9df9-44d8-813f-9158bf7346dc
+vuruguuat.safaricom.co.kesafaricom.co.ke68030.95944679e62d2f4-aa25-4c15-a33b-49d172852e50
+wap.safaricom.co.kesafaricom.co.ke68029.916358d6c52545-b032-414c-a19c-afbb8b47c6cb
+waridibot.safaricom.co.kesafaricom.co.ke68030.11038186747e1e-8f83-4266-b34f-e63a6efa49e0
+waste-management.safaricom.co.kesafaricom.co.ke"['crtsh' 'digitorus' 'alienvault' 'dnsdumpster']"{}subfindersubdomain.693483659341d90-8044-4678-bbaa-9cbbe5280de1
+wbx.safaricom.co.kesafaricom.co.ke"['hackertarget' 'crtsh' 'anubis']"{}subfindersubdomain.56907731f14a094-971b-4d92-922d-b304699bbbc9
+wealthdv.safaricom.co.kesafaricom.co.ke68029.880804a9ef5c80-877b-48b6-aec0-b9b450a30a74
+wealthdvportal.safaricom.co.kesafaricom.co.ke68030.8579094852539de-f6b2-4199-99fb-9895e8bfb663
+webchat.safaricom.co.kesafaricom.co.ke.22666570c498a6d-b0f2-4a63-8d11-066ccdaf52d6
+webconf.safaricom.co.kesafaricom.co.ke"['anubis' 'hackertarget' 'crtsh']"{}subfindersubdomain.758437acfa47bf-1c14-4b53-a584-96e9a647384f
+webdisk.domains.safaricom.co.kesafaricom.co.ke.17507558808c795-7742-4fa3-9f56-95c808771347
+webex.safaricom.co.kesafaricom.co.ke.900586a7a007ec-cc3a-4fd8-802a-51f0cc77e31f
+webexadmin.safaricom.co.kesafaricom.co.ke.4846702ecd2f708-052e-484d-96fe-45714a94be97
+webexmedia.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.63051685c2eb727-8832-4700-9939-d5efd520812c
+webmail.domains.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.8457959f1931643-af27-4268-964e-c987b7bcce9c
+webmail.safaricom.co.kesafaricom.co.ke10558499fed7d4b-d0cc-4cd1-9150-0b8fe097b2f4
+wef.groups.safaricom.co.kesafaricom.co.ke68030.9065917d12ca3c9-022c-4ae5-878b-aa321fee60b6
+wfm.safaricom.co.kesafaricom.co.ke"['crtsh' 'anubis']"{}subfindersubdomain.21172867dd8dd84-9a3d-49db-b681-57eedcf4d2ce
+workforce.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.077412b352e0c8-0a00-4b66-b461-dc9f6c6e6873
+workspace.safaricom.co.kesafaricom.co.ke"['hackertarget' 'dnsdumpster' 'crtsh']"{}subfindersubdomain.2800293e8627a85-c689-4ce4-92b1-f1fa15ed3651
+workspaces.devsecops-uat.safaricom.co.kesafaricom.co.ke68030.937358159e8dcf6-be76-4f39-8597-b0e89d0940c9
+workspaces.devsecops.safaricom.co.kesafaricom.co.ke.23675501646880-236c-4dc1-aaa7-e1cd273d1a90
+workspaceuat.safaricom.co.kesafaricom.co.ke"['crtsh' 'digitorus' 'hackertarget']"{}subfindersubdomain.01678183ce8be3c-2a5c-4d0e-8978-b03152bb5a37
+www.1960edwards.safaricom.co.kesafaricom.co.ke68030.6814344e7d43b99-1bd0-4fa2-a76d-6455a51ab3bb
+www.abbybot.safaricom.co.kesafaricom.co.ke68030.50597333a585a14-f66d-418f-bb57-ca0ac73ba7ac
+www.accounts.safaricom.co.kesafaricom.co.ke.457128369d8056f-071d-46ce-a29b-8fb1ad205bae
+www.admin.county.safaricom.co.kesafaricom.co.ke68030.28600849a6fa307-429f-4372-a201-63b417cc4d7d
+www.aftersales.safaricom.co.kesafaricom.co.ke68030.92201165203294e-edf1-43f9-9386-07fa8ec73353
+www.agm.safaricom.co.kesafaricom.co.ke68030.479316fc7f0244-60cd-4164-99aa-1600970324d2
+www.anthonarttey76.safaricom.co.kesafaricom.co.ke68030.509416801f85046-60a3-4e21-a3e1-aeff4e18c3d3
+www.anthonyatt.safaricom.co.kesafaricom.co.ke68030.553603fb082778-e572-43d4-ad20-c0f83b9d2457
+www.anthonyattorn.safaricom.co.kesafaricom.co.ke68030.1714928289a1e6c-539e-4e19-92ff-666842e52a96
+www.anthonyattorne.safaricom.co.kesafaricom.co.ke68029.679267bf5758dc-34ee-478f-b167-c6308fbff4d9
+www.api.county.safaricom.co.kesafaricom.co.ke68030.7556195b7faef1-4c20-4841-b093-a1a35c774905
+www.api.ic-dxlsandbox.safaricom.co.kesafaricom.co.ke68030.92337328d2ee4ee-b7f5-457b-a1ec-d01adcef76bd
+www.apps.safaricom.co.kesafaricom.co.ke68030.49803959989157d-2b00-4837-b6f9-0591135090ec
+www.appsandbox.safaricom.co.kesafaricom.co.ke68030.296501ad8ced9d-0c1a-481f-bb9a-d699fd8d6044
+www.appstg.safaricom.co.kesafaricom.co.ke68030.07127586ff333c-b22a-4889-b84c-c9f46149c30f
+www.assetcontrol.safaricom.co.kesafaricom.co.ke68029.8425255e7df8c04-03e1-4c56-9d29-fc4419e62139
+www.beta.accounts.safaricom.co.kesafaricom.co.ke68030.4340053a4ad49e3-406e-409d-abee-2fdbb6bdd35d
+www.beta.coaching.safaricom.co.kesafaricom.co.ke68029.476784ff7cd0a3-81c7-47d8-9c7b-2b05e96d785c
+www.beta.county.safaricom.co.kesafaricom.co.ke68030.10333203cb0c4e-3c83-40ef-87cf-b72b79108cc1
+www.bongarewards.safaricom.co.kesafaricom.co.ke.49568728411a34-3170-4d6f-afae-a081f1973d29
+www.bulkemails.safaricom.co.kesafaricom.co.ke68030.8333058714ee89-fea8-424e-b817-c42da4563c17
+www.business.safaricom.co.kesafaricom.co.ke.86470421b9182c-4914-4f4d-8d3e-810106a0d179
+www.certificate.safaricom.co.kesafaricom.co.ke68030.947681d686ddde-54be-4ae8-933f-4df6dfb84cd3
+www.change-enablement-portal.safaricom.co.kesafaricom.co.ke68030.0976193515d13ab-40c7-45ee-afc8-cfea4130d7b2
+www.chapadimba.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.39859496c1e8afe-b8f3-42fe-8749-e67240f0a385
+www.ci-uat.devsecops.safaricom.co.kesafaricom.co.ke68030.484910240f59bad-d86a-42d1-9aba-4f29a7dae499
+www.ci.devsecops-uat.safaricom.co.kesafaricom.co.ke68029.63178685d5cd1ee-01f6-4cc1-9d67-adebcfde79a8
+www.ci.devsecops.safaricom.co.kesafaricom.co.ke68029.7744837142eca2c-5dcf-4671-9335-9e2ed160eb0f
+www.cloud.safaricom.co.kesafaricom.co.ke68029.8014042f168fd75-b04f-4d2b-958e-065d2414345a
+www.cms-beta.county.safaricom.co.kesafaricom.co.ke68030.3020098df7b3957-115b-4c05-aaca-07ff04346455
+www.cms.county.safaricom.co.kesafaricom.co.ke68029.5766468788171b9-dbfe-497e-8d63-6d0cd7f1c654
+www.cms.safaricom.co.kesafaricom.co.ke68029.763645672485da0-ae6f-4515-b38c-209559726d10
+www.coaching.safaricom.co.kesafaricom.co.ke68029.506215366f8ac6a-2242-4b1f-a96f-932872c7323d
+www.contentapi.safaricom.co.kesafaricom.co.ke68030.316063216517f9d-1b93-4403-bffd-5619deab0e74
+www.corona.safaricom.co.kesafaricom.co.ke68030.0578033051b497-c4d7-4597-b2ad-02229607ee9a
+www.county.safaricom.co.kesafaricom.co.ke68029.630753395d87404-c70c-48f4-84d3-7a7b75b40399
+www.cspportal.safaricom.co.kesafaricom.co.ke68029.81122769cbe1151-3e0f-45df-819f-450e0a96d2c4
+www.dcbatf2.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.621875880a0aa76-1b5a-48fd-9bbe-1a0588f21bde
+www.dcbatf3.safaricom.co.kesafaricom.co.ke.5157075d42a4736-8304-4837-a25f-7e38f7f5cb88
+www.dealerportal.safaricom.co.kesafaricom.co.ke68029.7325268630c101a-2b2a-4969-829b-da8450325d50
+www.decode.safaricom.co.kesafaricom.co.ke68029.8818605a6c1d0d2-1d74-4567-bd4c-31e9804f8d66
+www.dev.business.safaricom.co.kesafaricom.co.ke68030.4267461fa450ad0-2208-4e3f-a3a7-5dbe53e68912
+www.developer.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.793209673d6c402-cd60-45b8-b8d5-31b5ce4db825
+www.devengine.safaricom.co.kesafaricom.co.ke68030.370231673ff552d-623f-41e4-a4a8-43757c77a45a
+www.devexperience.safaricom.co.kesafaricom.co.ke68030.41368061cebb682-f8fe-4053-a879-3c726bb85f8a
+www.devlake.devsecops-uat.safaricom.co.kesafaricom.co.ke68030.123223fb3e5e7-ebdd-4758-8b65-523d0e89f485
+www.domains.safaricom.co.kesafaricom.co.ke68029.74339531981b655-9891-419f-9728-b78b85754fa8
+www.doortree00.safaricom.co.kesafaricom.co.ke68030.288182396b807e5-7aec-4bf5-a655-577b07b995ba
+www.dubi.safaricom.co.kesafaricom.co.ke68030.3281326d4b0cfa-9434-47f1-96ac-7eb70972c5af
+www.duo.safaricom.co.kesafaricom.co.ke68029.624190653a5da4a-f54d-451c-abca-e9482835098c
+www.dynatrace-alert.safaricom.co.kesafaricom.co.ke68030.7398636f61cc240-db70-45bd-9910-69f16170fb31
+www.dynatraceadapter.safaricom.co.kesafaricom.co.ke68030.8441255e2a72d76-472d-4a21-b51f-f330ead9adea
+www.ebuloyalty.safaricom.co.kesafaricom.co.ke68029.450278c00c5795-fa6a-46e1-beed-3950fd9820ec
+www.edmstest.safaricom.co.kesafaricom.co.ke68029.58313375fafc459-cef3-4de6-82c5-c4b4e61b5bc4
+www.eflow-nps-uat.safaricom.co.kesafaricom.co.ke68030.7778647a9277ab5-61a9-46bf-835f-3af42a3d63f3
+www.eflow-nps.safaricom.co.kesafaricom.co.ke68030.2165153522abcc1-1d61-4063-8001-c014c6399fdb
+www.eflow.dxlsandbox.safaricom.co.kesafaricom.co.ke68030.6694996ac576501-dc49-47d0-a0c9-97a5c582f702
+www.eflow.safaricom.co.kesafaricom.co.ke.4445376f0f498a2-ebb1-4ac0-9630-a39d31b0c333
+www.eliud159.safaricom.co.kesafaricom.co.ke68030.6803422eacd84d1-bc28-42f4-a59c-b40b45a88325
+www.employee-uat.safaricom.co.kesafaricom.co.ke68029.496916c18174c1-f517-4878-8426-ce6aeaa84022
+www.employee.safaricom.co.kesafaricom.co.ke68029.72357585ecffdd9-f6c5-4d03-a064-0f70a4587758
+www.entertainment.safaricom.co.kesafaricom.co.ke68029.9396253bf0a1975-bb2b-4d8c-8ea2-01206b70d86f
+www.eventsmanagementuat.safaricom.co.kesafaricom.co.ke68030.5424555b21cd56-822d-46a6-a008-20e4ab19709b
+www.express.falcon.safaricom.co.kesafaricom.co.ke68030.29529769b285694-8e04-4773-aad6-dcb2338b224e
+www.fafanuka.safaricom.co.kesafaricom.co.ke68030.61507776c83728b-e4c2-4096-97a7-1dc4df611c29
+www.falcon.safaricom.co.kesafaricom.co.ke68030.3292465ec6c2f97-b65d-46d1-8644-903d0d2a5a7b
+www.franchisesimswap-uat.safaricom.co.kesafaricom.co.ke68030.7349684b3308c9d-ecc2-4958-b4be-7005632c191f
+www.franchisesimswap.safaricom.co.kesafaricom.co.ke68030.10811142367dd1-8e47-40d3-94a7-22bb0d59c83f
+www.fs-partnerportal.safaricom.co.kesafaricom.co.ke68030.2081232374e94c6-a738-4710-b96b-8339938275a3
+www.fsdev.safaricom.co.kesafaricom.co.ke68030.7598124555257c1-ea78-4e52-9388-91aa6ba6cc28
+www.ftth.safaricom.co.kesafaricom.co.ke68030.2871172c51fa4a3-bf16-4aa5-8f4c-bbacc4a7e9b2
+www.git-uat.safaricom.co.kesafaricom.co.ke68030.4969325847a74e0-dc2f-4fda-95f5-4c9201269f07
+www.gitlab.safaricom.co.kesafaricom.co.ke.5289576c82c229d-9083-4c35-ae58-d5de592b6255
+www.golftour.safaricom.co.kesafaricom.co.ke68030.7304082e5efcae2-e99d-4ff6-8393-4d081ab4af19
+www.grafana.safaricom.co.kesafaricom.co.ke68030.6719034dc30518b-de4c-4904-8b4f-7e814ee12b5b
+www.grafanauat.safaricom.co.kesafaricom.co.ke68029.6690006eb9220a7-8b29-4fa2-8ede-9baa5c67a68b
+www.groups.safaricom.co.kesafaricom.co.ke68029.4650276c23b524c-b43f-4429-ac19-bd007c5a7d16
+www.iamsoss.safaricom.co.kesafaricom.co.ke68029.4902735f48d8283-9fcb-4fa5-92d8-33cd5e7580e3
+www.industrydigitaltalentprogram.safaricom.co.kesafaricom.co.ke68030.896586e2743b86-59ad-43a1-acad-7a0645c59cd0
+www.intranet.safaricom.co.kesafaricom.co.ke68030.51289569a8d7dd5-c309-4d72-bb01-f1a1143524df
+www.iotsimmanagement.safaricom.co.kesafaricom.co.ke68030.46122240b6de378-b3a6-4704-b0c9-30e863b57455
+www.jenkins-de.safaricom.co.kesafaricom.co.ke68030.9149086ce0cddbe-59e5-4deb-9d56-eae6a784e960
+www.jenkins-uat.safaricom.co.kesafaricom.co.ke.3839688939426d8-71f9-4a91-a085-02c5d280f197
+www.jenkins.safaricom.co.kesafaricom.co.ke.724638d8d38a6f-a351-43e7-92e8-92d5cd43435a
+www.jfrog-uat.safaricom.co.kesafaricom.co.ke68029.4912803eaca85e1-89f0-422c-b096-8706853c78fb
+www.jfrog.safaricom.co.kesafaricom.co.ke68030.594867294cba42e-9a75-40b5-8114-2700b352c892
+www.jiandikishe.safaricom.co.kesafaricom.co.ke68030.30427741b5af8da-7ab5-49a5-8ea2-9d347ec0dc43
+www.kinga.safaricom.co.kesafaricom.co.ke68030.77179073b11336c-143d-4264-b0ee-b80f070bdf36
+www.kiosk.safaricom.co.kesafaricom.co.ke68030.5162735ad65e483-8747-4c76-a94c-9a23b4e5fdb1
+www.lendingplatform.safaricom.co.kesafaricom.co.ke68030.4699054ccbf0e3d-55e9-4341-a257-7c23a061c7f4
+www.mpesaod.safaricom.co.kesafaricom.co.ke68030.3215983bf34ec6c-4085-4a20-a15a-8d7e1c7dcc8a
+www.myaccount-uat.safaricom.co.kesafaricom.co.ke68030.5679202eccff6d7-e6d2-406d-9593-bdad078f5c6e
+www.myaccount.safaricom.co.kesafaricom.co.ke68030.22786558c597cda-fd3a-48d7-bd4c-8cf49479ed31
+www.nationunited079.safaricom.co.kesafaricom.co.ke68029.94071539501013f-f0b5-484f-ad06-11d0cb695b8e
+www.newsroom.safaricom.co.kesafaricom.co.ke68030.183837fa495c8b-99ce-4b17-9098-11eb17c2f4b1
+www.nikonasafaricomlive.safaricom.co.kesafaricom.co.ke68030.757237580d09b7-c85e-4f57-a14d-fecebefeccd1
+www.office.safaricom.co.kesafaricom.co.ke68029.8156502db446a2e-0bbc-42ff-a7de-2b000b47a2e8
+www.onboarding-upload.safaricom.co.kesafaricom.co.ke68029.970277360b06535-d9ab-4de2-9847-31bd53f38f67
+www.onboarding.safaricom.co.kesafaricom.co.ke68030.6496473b2acec8-9079-4964-b608-24d1d0ff23f2
+www.partnerhub.safaricom.co.kesafaricom.co.ke68030.37130830f85c724-b95b-495a-93ec-a03c67ec6182
+www.posretailprod.safaricom.co.kesafaricom.co.ke68030.71392a075ce35-8b2b-43c7-8eef-d61b0162685d
+www.posuat.safaricom.co.kesafaricom.co.ke68030.916116249a5aeb3-e2af-4bd6-bbdd-fdaccf813865
+www.preprod.eflow.safaricom.co.kesafaricom.co.ke68029.84907676c71495f-4cf1-4a18-81fb-ea9b083b7fa9
+www.pretups.safaricom.co.kesafaricom.co.ke68029.70721771ae99799-dcf5-4e0c-b9cb-8a1f846146df
+www.remoteaccess.safaricom.co.kesafaricom.co.ke68030.4147694f3324581-fe05-4a21-9e70-86423a961ecf
+www.roaming.safaricom.co.kesafaricom.co.ke68030.70427822f3c236e-82eb-41d2-b739-2885f62abeb0
+www.romaing.safaricom.co.kesafaricom.co.ke68029.45939571cdb47d-30dc-4cbd-926b-f8a93b74798e
+www.safaricom.co.kesafaricom.co.ke"['crtsh' 'leakix' 'digitorus' 'hackertarget' 'alienvault']"{}subfindersubdomain.68734051ac7902b-919a-4c8b-9aaf-0506ba1c88c9
+www.safaricomcms.safaricom.co.kesafaricom.co.ke68030.20921180463b8ee-66f8-49fb-91e5-4e18b18bc996
+www.safvdi.safaricom.co.kesafaricom.co.ke68030.03664149edccda-4fdc-443a-8b05-cadc14b28c77
+www.safvditest.safaricom.co.kesafaricom.co.ke68030.5184095a41e4e83-89ec-4117-af6b-85acf630298f
+www.salama.safaricom.co.kesafaricom.co.ke68030.5853486c978268a-8add-47a4-b5dd-f48112161545
+www.sandbox.falcon.safaricom.co.kesafaricom.co.ke68030.9384515f8f15849-46a2-486f-ace5-f287da58d5dd
+www.sandbox2.safaricom.co.kesafaricom.co.ke68030.2687323d1cec322-ff57-4b06-8cab-e11761617b21
+www.sbom.devsecops-uat.safaricom.co.kesafaricom.co.ke68029.66265566a9e9458-1ef7-4bc3-8ab6-0658f5f11722
+www.sbom.devsecops.safaricom.co.kesafaricom.co.ke68030.09872becbb27e-8e14-402f-b7b1-b2b583fe8dbf
+www.sbsi.safaricom.co.kesafaricom.co.ke68029.8079343b639fbd6-440f-4f2a-bf2c-e1e1ed1edc20
+www.seedapp.safaricom.co.kesafaricom.co.ke68030.0930574036c895b-e700-42b8-9d0e-ec0616d0686e
+www.seedappuat.safaricom.co.kesafaricom.co.ke68030.55943666f94c959-5f16-4250-9725-d070e34de479
+www.self-service.devsecops.safaricom.co.kesafaricom.co.ke68030.376000415119c22-aa15-4b81-a044-f6fbe5879aaa
+www.selfcare.safaricom.co.kesafaricom.co.ke"['hackertarget' 'alienvault' 'crtsh']"{}subfindersubdomain.36890553cc866e-5503-4ec5-bcab-38922b0c1a92
+www.shub.safaricom.co.kesafaricom.co.ke68030.6479027d4465cf7-f010-4335-8a01-538854dada7a
+www.smartinventorytest.safaricom.co.kesafaricom.co.ke68029.7159631f4d2d521-608b-45cc-928a-603d39e98514
+www.smartit.safaricom.co.kesafaricom.co.ke68029.6781406cf491f43-45b0-4ca5-8824-aaf60f3adf03
+www.sonarqube.safaricom.co.kesafaricom.co.ke"['digitorus' 'alienvault' 'crtsh']"{}subfindersubdomain.695574314bd9997-6c6f-424a-b660-74c29036993a
+www.sonarqubeuat.safaricom.co.kesafaricom.co.ke.564556fb574349-c78b-4923-901b-73661f5c1097
+www.sonarqubeuat2.safaricom.co.kesafaricom.co.ke68030.322682460afdb29-d2ea-4f47-a1c7-07323406fa05
+www.sparesmanagerapi.safaricom.co.kesafaricom.co.ke68030.541305ab0ff75b-509e-463e-a40d-81d0f9933d3c
+www.sre.safaricom.co.kesafaricom.co.ke68030.7851207144ed890-6519-4381-83fb-4002273c26f6
+www.ssk.safaricom.co.kesafaricom.co.ke68030.62794908638299-9454-4bb1-95ec-9c77dbcf08e4
+www.sslcertificates.safaricom.co.kesafaricom.co.ke68030.57668921da82454-b270-492b-9d00-60fd0d471570
+www.sso.safaricom.co.kesafaricom.co.ke68030.774456412819b9-6ecc-494a-914c-f432ca010889
+www.subreg-portal.safaricom.co.kesafaricom.co.ke68030.958128e623b41e-0c21-47b9-885a-52ac9e906c49
+www.tesinvoices.safaricom.co.kesafaricom.co.ke68029.9234588b7fa0853-8104-4bbb-97cb-3e5b11030080
+www.test.business.safaricom.co.kesafaricom.co.ke68029.657286a023e6bb-2a70-482c-b9c8-0aa91738db0d
+www.test.safaricom.co.kesafaricom.co.ke68029.5496682c3e1845-6521-4b0e-a0a2-bb36de04e71e
+www.thonyattorn19.safaricom.co.kesafaricom.co.ke68030.95418836281aca6-6094-4c3f-b4aa-a868dd080889
+www.tionunited079.safaricom.co.kesafaricom.co.ke68029.5667236f01b4cfb-f6db-4e64-ac6c-285f18064fbd
+www.treadstone1.safaricom.co.kesafaricom.co.ke68029.5612410a6edb7f-6eaf-4b01-87d4-502fedd42d59
+www.tunes.skiza.safaricom.co.kesafaricom.co.ke68029.8024788b89b2f6d-85d7-464b-af38-95b772f274da
+www.twawezalive.safaricom.co.kesafaricom.co.ke68030.2607985fd3b31bb-84fb-4c99-921c-173cae5cf9c8
+www.twendekwastreets.safaricom.co.kesafaricom.co.ke68030.23785735e7a018c-7cec-40d5-9d64-45462a7ee1f3
+www.uat-admin.business.safaricom.co.kesafaricom.co.ke.850202879f8560c-d2c9-417b-88c3-bc5f0d748660
+www.uat-bongarewards.safaricom.co.kesafaricom.co.ke"['crtsh' 'alienvault']"{}subfindersubdomain.711562818a2a29-69f3-4fb0-96f8-dfcf1ffc1a38
+www.uat-brand-content-hub.safaricom.co.kesafaricom.co.ke68029.856938868d42d71-8216-4215-9059-bfe2447867f1
+www.uat-bulkemails.safaricom.co.kesafaricom.co.ke68029.8624446da662880-d482-473e-b211-5652dc9e3840
+www.uat-business.safaricom.co.kesafaricom.co.ke.3565612b9d257c3-c642-4199-aba8-0d090572d7b2
+www.uat-ebuloyalty.safaricom.co.kesafaricom.co.ke68030.54366680e747c1-41ee-47e3-a69f-9863c3c33dc0
+www.uat-ftth.safaricom.co.kesafaricom.co.ke.623094105a5e3f-6cff-40b8-b9be-ef315ea52292
+www.uat-industrydigitaltalentprogram.safaricom.co.kesafaricom.co.ke.538556622c4a267-d407-4537-b754-1f3edbd359f6
+www.uat-internet.safaricom.co.kesafaricom.co.ke.881803848be062b-ec2d-4286-93e4-b3841a63e89c
+www.uat-iotsimmanagement.safaricom.co.kesafaricom.co.ke68029.629710716b18395-1049-4adf-ac8f-3c8725a47e72
+www.uat-onboarding-portal.safaricom.co.kesafaricom.co.ke68029.61982371684b946-d266-455e-a5ac-ce1308b3a8d2
+www.uat-onboarding-upload.safaricom.co.kesafaricom.co.ke68030.7789953b60deee8-c856-4551-93c5-85ae32b2d4f1
+www.uat-partnerhub.safaricom.co.kesafaricom.co.ke68030.23894074fa2a443-9faa-41c1-a987-79ba583d486d
+www.uat-selfservice.business.safaricom.co.kesafaricom.co.ke68030.668342461f7db4d-6968-43fa-a1dc-e204992fc1ca
+www.uat-sslcertificates.safaricom.co.kesafaricom.co.ke68030.91375119a3be337-dd03-4eb3-beaa-7be0f3d71559
+www.uat-subreg-portal.safaricom.co.kesafaricom.co.ke.612880755d2557c-63c7-4302-98ed-e52bd24acb11
+www.uat-xprome.safaricom.co.kesafaricom.co.ke.15834954578130-4771-4c8a-923e-555610aedd28
+www.uat.falcon.safaricom.co.kesafaricom.co.ke68030.25171286cf599a9-b859-491b-9b5f-36a08fed2fe2
+www.uat.magnify.safaricom.co.kesafaricom.co.ke68030.7195773759111c-5c79-43c8-88ff-cc0b19d13b6c
+www.uat1-ssk.safaricom.co.kesafaricom.co.ke68030.192178ec53e857-3ec1-4c6a-98f9-8e1639fee806
+www.uat2-ssk.safaricom.co.kesafaricom.co.ke68030.0419426ce7d050d-1623-43f6-8135-ec9b2d531f59
+www.view360-uat.safaricom.co.kesafaricom.co.ke68029.85800151902b025-40ed-44c7-8602-9e54159aeeac
+www.view360.safaricom.co.kesafaricom.co.ke68030.560590356a01456-bf8d-489c-9852-8bc5cfeb4de7
+www.vodasuretest.safaricom.co.kesafaricom.co.ke68030.705457466c638bb-314c-4a0f-b238-2d56ac5bab1f
+www.vuruguuat.safaricom.co.kesafaricom.co.ke68030.80695774678a12e-f739-4fbc-b90d-2b17e682e210
+www.waridibot.safaricom.co.kesafaricom.co.ke68029.8501675e2c65abe-51e9-4160-bef5-a413acb127a9
+www.waste-management.safaricom.co.kesafaricom.co.ke68029.4660852e038a5c1-812a-4378-b79a-9bdc167ef9ad
+www.webchat.safaricom.co.kesafaricom.co.ke68030.21758222189268c-7032-4f39-a5ac-32b943d50795
+www.wef.groups.safaricom.co.kesafaricom.co.ke68029.762546214a602b-7f0d-4030-ba64-3b72a365c0df
+www.workforce.safaricom.co.kesafaricom.co.ke68029.778862549a46f33-9d4b-4f4f-8c40-1b89d43e3028
+www.workspace.safaricom.co.kesafaricom.co.ke68030.0906355f61bbb15-af70-4d33-81be-969dfcad48ae
+www.workspaces.devsecops-uat.safaricom.co.kesafaricom.co.ke68029.9013686a004c8e7-b64d-476d-b4f4-8f4cb05b2c09
+www.workspaceuat.safaricom.co.kesafaricom.co.ke68030.6557174911fb84a-c9c1-46a3-ad5d-320c2a4a273a
+www.zuri-ws.dxlsandbox.safaricom.co.kesafaricom.co.ke68030.1436962b7a1415-d83e-45ce-9dea-22a53a97e0d2
+xlrelease-uat.safaricom.co.kesafaricom.co.ke
+xlrelease.safaricom.co.kesafaricom.co.ke
+youradvantage.safaricom.co.ke
+zuri-ws.dxlsandbox.safaricom.co.ke

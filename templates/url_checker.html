@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}URL Checker{% endblock %}
+
+{% block header %}Futuristic URL Checker{% endblock %}
+
+{% block content %}
+<form method="POST" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="url" class="sr-only">Enter a URL:</label>
+        <input type="text" class="form-control" id="url" name="url" placeholder="Enter URL (e.g., https://example.com)">
+    </div>
+    <div class="form-group">
+        <label for="file" class="sr-only">Or upload a file with URLs:</label>
+        <input type="file" class="form-control-file" id="file" name="file">
+    </div>
+    <div class="text-center">
+        <button type="submit" class="btn neon-button">Check URL(s)</button>
+    </div>
+</form>
+<div class="results my-4">
+    {% if results %}
+        <h2 class="neon-text">Results:</h2>
+        <ul class="list-group">
+            {% for result in results %}
+                <li class="list-group-item">
+                    <strong>URL:</strong> {{ result[0] }} <br>
+                    <strong>Title:</strong> {{ result[1] }} <br>
+                    <strong>Status:</strong> <span class="{{ 'text-success' if result[2] == 'Success' else 'text-danger' }}">{{ result[2] }}</span> <br>
+                    <strong>IP Address:</strong> <a href="http://{{ result[3] }}" target="_blank">{{ result[3] }}</a> <br>
+                    <strong>Location:</strong> <a href="https://www.google.com/maps?q={{ result[4] }}" target="_blank">{{ result[4] }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+        {% if download_link %}
+            <div class="text-center">
+                <a href="{{ url_for('download_file', filename=download_link) }}" class="btn neon-button my-3">Download CSV</a>
+            </div>
+        {% endif %}
+    {% endif %}
+</div>
+{% endblock %}

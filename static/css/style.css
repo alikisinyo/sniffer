@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+html, body {
+    height: 100%; /* Ensures full height */
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url('/static/images/norse-attack.gif') no-repeat center center fixed; /* Set background image */
+    background-size: cover; /* Cover the entire page */
+    color: #f8f9fa;
+    font-family: 'Orbitron', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(207, 243, 207);
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    color: #0f0;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 0 0 5px #0f0;
+}
+
+.navbar ul li a:hover {
+    color: #0b0;
+    text-decoration: underline;
+}
+
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.url-form {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 20px; /* Circular corners */
+    box-shadow: 0 0 20px #0f0;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.url-form input, .url-form button {
+    width: calc(100% - 20px); /* Adjust width to account for padding */
+    margin-bottom: 10px;
+    border-radius: 10px; /* Circular corners for inputs and buttons */
+}
+
+.form-control, .form-control-file {
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid #0f0;
+    color: #f8f9fa;
+    padding: 10px;
+    border-radius: 10px; /* Circular corners */
+}
+
+.form-control::placeholder {
+    color: #f8f9fa;
+}
+
+.neon-button {
+    background: #0f0;
+    border: none;
+    color: #000;
+    padding: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    box-shadow: 0 0 5px #0f0, 0 0 10px #0f0, 0 0 15px #0f0;
+    border-radius: 10px; /* Circular corners */
+    margin-top: 10px;
+}
+
+.neon-button:hover {
+    background: #0b0;
+    box-shadow: 0 0 20px #0b0, 0 0 30px #0b0, 0 0 40px #0b0;
+}
+
+.list-group-item {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #f8f9fa;
+    border-radius: 10px; /* Circular corners for list items */
+    margin-bottom: 10px;
+}
+
+.list-group-item a {
+    color: #0f0;
+}
+
+.list-group-item a:hover {
+    color: #0b0;
+    text-decoration: underline;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+}
+
+.footer {
+    background: rgba(0, 0, 0, 0.8);
+    color: #f8f9fa;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #0f0;
+}
