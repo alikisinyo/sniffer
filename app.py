@@ -14,6 +14,10 @@ from urllib.parse import urlparse, urljoin
 from datetime import datetime
 import json
 from werkzeug.utils import secure_filename
+import urllib3
+
+# Suppress SSL warnings
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Configure logging
 logging.basicConfig(
@@ -61,27 +65,44 @@ def validate_url(url):
         return False
 
 def get_ip_and_location(url):
-    """Get IP address and geolocation with error handling."""
+    """Get IP address and geolocation with improved error handling."""
     try:
         parsed_url = urlparse(url)
         hostname = parsed_url.hostname
+        
+        if not hostname:
+            return 'N/A', 'N/A'
         
         # Try to resolve IP
         try:
             ip_address = socket.gethostbyname(hostname)
         except socket.gaierror:
             return 'N/A', 'N/A'
+        except Exception as e:
+            logger.error(f"Error resolving hostname {hostname}: {str(e)}")
+            return 'N/A', 'N/A'
         
-        # Get geolocation with timeout
+        # Get geolocation with timeout and better error handling
         try:
-            response = requests.get(f'http://ip-api.com/json/{ip_address}', timeout=5)
+            # Use a more reliable geolocation service
+            response = requests.get(f'http://ip-api.com/json/{ip_address}', timeout=3)
             if response.status_code == 200:
-                ip_info = response.json()
-                lat = ip_info.get('lat', 'N/A')
-                lon = ip_info.get('lon', 'N/A')
-                location = f"{lat},{lon}"
-                return ip_address, location
-        except requests.RequestException:
+                try:
+                    ip_info = response.json()
+                    if ip_info.get('status') == 'success':
+                        lat = ip_info.get('lat', 'N/A')
+                        lon = ip_info.get('lon', 'N/A')
+                        if lat != 'N/A' and lon != 'N/A':
+                            location = f"{lat},{lon}"
+                            return ip_address, location
+                except (ValueError, KeyError) as e:
+                    logger.error(f"Error parsing geolocation data: {str(e)}")
+                    pass
+        except requests.RequestException as e:
+            logger.error(f"Error fetching geolocation for {ip_address}: {str(e)}")
+            pass
+        except Exception as e:
+            logger.error(f"Unexpected error in geolocation: {str(e)}")
             pass
         
         return ip_address, 'N/A'
@@ -115,9 +136,9 @@ def check_url_status_and_get_title(urls, timeout=10):
         
         try:
             headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
             }
-            response = requests.get(url, timeout=timeout, headers=headers, allow_redirects=True)
+            response = requests.get(url, timeout=timeout, headers=headers, allow_redirects=True, verify=False)
             
             if response.status_code == 200:
                 try:
@@ -131,23 +152,36 @@ def check_url_status_and_get_title(urls, timeout=10):
                 ip_address, location = get_ip_and_location(url)
                 return (url, title, 'Success', ip_address, location)
             else:
-                return (url, 'No Title', f'Failed ({response.status_code})', 'N/A', 'N/A')
+                ip_address, location = get_ip_and_location(url)
+                return (url, 'No Title', f'Failed ({response.status_code})', ip_address, location)
                 
         except requests.Timeout:
-            return (url, 'No Title', 'Timeout', 'N/A', 'N/A')
+            ip_address, location = get_ip_and_location(url)
+            return (url, 'No Title', 'Timeout', ip_address, location)
         except requests.RequestException as e:
-            return (url, 'No Title', f'Error: {str(e)[:50]}', 'N/A', 'N/A')
+            ip_address, location = get_ip_and_location(url)
+            return (url, 'No Title', f'Error: {str(e)[:50]}', ip_address, location)
         except Exception as e:
             logger.error(f"Unexpected error processing {url}: {str(e)}")
-            return (url, 'No Title', 'Unexpected Error', 'N/A', 'N/A')
+            ip_address, location = get_ip_and_location(url)
+            return (url, 'No Title', 'Unexpected Error', ip_address, location)
     
-    # Process URLs with threading for better performance
-    with threading.ThreadPoolExecutor(max_workers=5) as executor:
-        futures = [executor.submit(process_url, url) for url in urls_list]
-        for future in futures:
-            result = future.result()
-            if result:
-                valid_urls_and_titles.append(result)
+    # For single URL, don't use threading to avoid issues
+    if len(urls_list) == 1:
+        result = process_url(urls_list[0])
+        if result:
+            valid_urls_and_titles.append(result)
+    else:
+        # Process URLs with threading for better performance (only for multiple URLs)
+        with threading.ThreadPoolExecutor(max_workers=5) as executor:
+            futures = [executor.submit(process_url, url) for url in urls_list]
+            for future in futures:
+                try:
+                    result = future.result(timeout=timeout + 5)
+                    if result:
+                        valid_urls_and_titles.append(result)
+                except Exception as e:
+                    logger.error(f"Error in thread execution: {str(e)}")
     
     return valid_urls_and_titles
 
@@ -250,15 +284,22 @@ def index():
         
         if url:
             url = url.strip()
-            if not validate_url(url):
-                error = 'Invalid URL format. Please enter a valid URL.'
+            if not url:
+                error = 'Please enter a URL.'
+            elif not validate_url(url):
+                error = 'Invalid URL format. Please enter a valid URL (e.g., https://example.com).'
             else:
                 url = ensure_protocol(url)
                 try:
+                    logger.info(f"Processing single URL: {url}")
                     results = check_url_status_and_get_title([url])
+                    if not results:
+                        error = 'Failed to process the URL. Please check if the URL is accessible.'
+                    else:
+                        logger.info(f"Successfully processed URL: {url}")
                 except Exception as e:
                     logger.error(f"Error processing URL {url}: {str(e)}")
-                    error = 'An error occurred while processing the URL.'
+                    error = f'An error occurred while processing the URL: {str(e)[:100]}'
                     
         elif file and file.filename:
             if not allowed_file(file.filename):
@@ -268,11 +309,16 @@ def index():
                     filename = secure_filename(file.filename)
                     filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
                     file.save(filepath)
+                    logger.info(f"Processing file: {filename}")
                     results = check_url_status_and_get_title(filepath)
-                    download_link = True
+                    if not results:
+                        error = 'No valid URLs found in the uploaded file.'
+                    else:
+                        download_link = True
+                        logger.info(f"Successfully processed file: {filename} with {len(results)} URLs")
                 except Exception as e:
                     logger.error(f"Error processing file upload: {str(e)}")
-                    error = 'An error occurred while processing the file.'
+                    error = f'An error occurred while processing the file: {str(e)[:100]}'
         else:
             error = 'Please provide either a URL or upload a file.'
     
