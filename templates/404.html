@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block title %}404 - Page Not Found - SNIFFER{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-6 text-center">
+        <div class="card">
+            <div class="card-body py-5">
+                <div class="mb-4">
+                    <i class="fas fa-exclamation-triangle fa-5x text-warning mb-4"></i>
+                    <h1 class="display-1 text-warning">404</h1>
+                    <h2 class="mb-4">Page Not Found</h2>
+                    <p class="lead text-muted mb-4">
+                        The page you're looking for doesn't exist or has been moved.
+                    </p>
+                </div>
+                
+                <div class="row mb-4">
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <i class="fas fa-home fa-2x text-primary mb-3"></i>
+                                <h5>Home</h5>
+                                <a href="{{ url_for('index') }}" class="btn btn-outline-primary btn-sm">
+                                    Go Home
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <i class="fas fa-search fa-2x text-success mb-3"></i>
+                                <h5>Subdomain Finder</h5>
+                                <a href="{{ url_for('subdomain_finder') }}" class="btn btn-outline-success btn-sm">
+                                    Find Subdomains
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <i class="fas fa-bug fa-2x text-info mb-3"></i>
+                                <h5>URL Fuzzer</h5>
+                                <a href="{{ url_for('fuzz') }}" class="btn btn-outline-info btn-sm">
+                                    Start Fuzzing
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-4">
+                    <a href="{{ url_for('index') }}" class="btn btn-primary btn-lg">
+                        <i class="fas fa-arrow-left me-2"></i>Back to Home
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 

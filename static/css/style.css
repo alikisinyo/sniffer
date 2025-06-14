@@ -1,140 +1,427 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+/* Windows 95 Theme - SNIFFER Application */
 
-html, body {
-    height: 100%; /* Ensures full height */
-    margin: 0;
-    padding: 0;
+/* CSS Variables */
+:root {
+    --win95-gray: #c0c0c0;
+    --win95-dark-gray: #808080;
+    --win95-darker-gray: #404040;
+    --win95-light-gray: #dfdfdf;
+    --win95-white: #ffffff;
+    --win95-black: #000000;
+    --win95-blue: #000080;
+    --win95-light-blue: #c0c0ff;
+    --win95-green: #008000;
+    --win95-red: #800000;
+    --win95-yellow: #808000;
+    --win95-border-light: #ffffff;
+    --win95-border-dark: #808080;
+    --win95-shadow-light: #dfdfdf;
+    --win95-shadow-dark: #404040;
+}
+
+/* Reset and Base Styles */
+* {
+    box-sizing: border-box;
 }
 
 body {
-    background: url('/static/images/norse-attack.gif') no-repeat center center fixed; /* Set background image */
-    background-size: cover; /* Cover the entire page */
-    color: #f8f9fa;
-    font-family: 'Orbitron', sans-serif;
-    display: flex;
-    flex-direction: column;
-}
-
-.navbar {
-    background: rgba(0, 0, 0, 0.8);
-    padding: 10px 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgb(207, 243, 207);
-    max-width: 800px;
-    width: 100%;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-}
-
-.navbar ul {
-    list-style: none;
-    padding: 0;
+    font-family: 'MS Sans Serif', 'Microsoft Sans Serif', Arial, sans-serif;
+    background: var(--win95-gray);
+    color: var(--win95-black);
     margin: 0;
-    display: flex;
-    justify-content: center;
+    padding: 0;
+    font-size: 11px;
+    line-height: 1.2;
 }
 
-.navbar ul li {
-    margin: 0 15px;
-}
-
-.navbar ul li a {
-    color: #0f0;
-    text-decoration: none;
-    font-weight: bold;
-    text-shadow: 0 0 5px #0f0;
-}
-
-.navbar ul li a:hover {
-    color: #0b0;
-    text-decoration: underline;
-}
-
-.container {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
+/* Windows 95 Button Style */
+.btn {
+    background: var(--win95-gray);
+    border: 2px outset var(--win95-gray);
+    color: var(--win95-black);
+    padding: 4px 8px;
+    font-family: 'MS Sans Serif', 'Microsoft Sans Serif', Arial, sans-serif;
+    font-size: 11px;
+    cursor: pointer;
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-light),
+        inset -1px -1px 0 var(--win95-shadow-dark),
+        1px 1px 0 var(--win95-shadow-dark);
+    outline: none;
+    min-height: 23px;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
+    text-decoration: none;
 }
 
-.url-form {
-    background: rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    border-radius: 20px; /* Circular corners */
-    box-shadow: 0 0 20px #0f0;
-    width: 100%;
-    max-width: 600px;
-    margin: 20px auto;
+.btn:hover {
+    background: var(--win95-light-gray);
 }
 
-.url-form input, .url-form button {
-    width: calc(100% - 20px); /* Adjust width to account for padding */
-    margin-bottom: 10px;
-    border-radius: 10px; /* Circular corners for inputs and buttons */
+.btn:active {
+    border: 2px inset var(--win95-gray);
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-dark),
+        inset -1px -1px 0 var(--win95-shadow-light);
 }
 
-.form-control, .form-control-file {
-    background: rgba(0, 0, 0, 0.5);
-    border: 1px solid #0f0;
-    color: #f8f9fa;
-    padding: 10px;
-    border-radius: 10px; /* Circular corners */
+.btn-primary {
+    background: var(--win95-blue);
+    color: var(--win95-white);
+    border: 2px outset var(--win95-blue);
+}
+
+.btn-primary:hover {
+    background: var(--win95-light-blue);
+    color: var(--win95-black);
+}
+
+.btn-success {
+    background: var(--win95-green);
+    color: var(--win95-white);
+    border: 2px outset var(--win95-green);
+}
+
+.btn-danger {
+    background: var(--win95-red);
+    color: var(--win95-white);
+    border: 2px outset var(--win95-red);
+}
+
+/* Windows 95 Input Style - FIXED FOR TYPING */
+.form-control, 
+input[type="text"], 
+input[type="url"], 
+input[type="file"],
+textarea,
+select {
+    background: var(--win95-white) !important;
+    border: 2px inset var(--win95-gray) !important;
+    color: var(--win95-black) !important;
+    padding: 2px 4px !important;
+    font-family: 'MS Sans Serif', 'Microsoft Sans Serif', Arial, sans-serif !important;
+    font-size: 11px !important;
+    outline: none !important;
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-dark),
+        inset -1px -1px 0 var(--win95-shadow-light) !important;
+    min-height: 19px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    position: relative !important;
+    z-index: 10 !important;
+}
+
+.form-control:focus, 
+input[type="text"]:focus, 
+input[type="url"]:focus, 
+input[type="file"]:focus,
+textarea:focus,
+select:focus {
+    border: 2px inset var(--win95-blue) !important;
+    background: var(--win95-white) !important;
+    color: var(--win95-black) !important;
+    outline: none !important;
 }
 
 .form-control::placeholder {
-    color: #f8f9fa;
+    color: var(--win95-dark-gray);
 }
 
-.neon-button {
-    background: #0f0;
-    border: none;
-    color: #000;
-    padding: 15px;
-    text-transform: uppercase;
+/* Form Labels */
+.form-label {
+    color: var(--win95-black);
     font-weight: bold;
-    box-shadow: 0 0 5px #0f0, 0 0 10px #0f0, 0 0 15px #0f0;
-    border-radius: 10px; /* Circular corners */
+    margin-bottom: 4px;
+    font-size: 11px;
+    display: block;
+}
+
+/* Windows 95 Card Style */
+.card {
+    background: var(--win95-gray);
+    border: 2px outset var(--win95-gray);
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-light),
+        inset -1px -1px 0 var(--win95-shadow-dark),
+        1px 1px 0 var(--win95-shadow-dark);
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.card-header {
+    background: linear-gradient(90deg, var(--win95-blue), var(--win95-light-blue));
+    color: var(--win95-white);
+    padding: 4px 8px;
+    font-weight: bold;
+    border-bottom: 1px solid var(--win95-black);
+    font-size: 11px;
+}
+
+.card-body {
+    padding: 8px;
+    background: var(--win95-gray);
+}
+
+/* Windows 95 Table Style */
+.table {
+    background: var(--win95-white);
+    border: 2px inset var(--win95-gray);
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 11px;
+}
+
+.table th {
+    background: var(--win95-gray);
+    border: 1px solid var(--win95-black);
+    padding: 4px 6px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.table td {
+    border: 1px solid var(--win95-black);
+    padding: 4px 6px;
+    background: var(--win95-white);
+}
+
+.table tr:nth-child(even) td {
+    background: var(--win95-light-gray);
+}
+
+/* Windows 95 Alert Style */
+.alert {
+    background: var(--win95-white);
+    border: 2px inset var(--win95-gray);
+    padding: 8px;
+    margin-bottom: 10px;
+    font-size: 11px;
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-dark),
+        inset -1px -1px 0 var(--win95-shadow-light);
+}
+
+.alert-danger {
+    border-left: 4px solid var(--win95-red);
+}
+
+.alert-success {
+    border-left: 4px solid var(--win95-green);
+}
+
+.alert-info {
+    border-left: 4px solid var(--win95-blue);
+}
+
+/* Windows 95 Navigation */
+.navbar {
+    background: var(--win95-gray);
+    border-bottom: 2px outset var(--win95-gray);
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-light),
+        inset -1px -1px 0 var(--win95-shadow-dark),
+        1px 1px 0 var(--win95-shadow-dark);
+    padding: 4px 0;
+}
+
+.navbar-brand {
+    color: var(--win95-black);
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.navbar-brand:hover {
+    color: var(--win95-black);
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link {
+    color: var(--win95-black);
+    padding: 4px 8px;
+    font-size: 11px;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+
+.navbar-nav .nav-link:hover {
+    background: var(--win95-light-gray);
+    border: 1px outset var(--win95-gray);
+}
+
+.navbar-toggler {
+    background: var(--win95-gray);
+    border: 2px outset var(--win95-gray);
+    padding: 2px 4px;
+}
+
+/* Windows 95 Footer - REDUCED SIZE */
+footer {
+    background: var(--win95-gray);
+    border-top: 2px outset var(--win95-gray);
+    padding: 4px 8px;
     margin-top: 10px;
+    font-size: 9px;
+    color: var(--win95-black);
+    text-align: center;
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-light),
+        inset -1px -1px 0 var(--win95-shadow-dark);
+    min-height: 20px;
 }
 
-.neon-button:hover {
-    background: #0b0;
-    box-shadow: 0 0 20px #0b0, 0 0 30px #0b0, 0 0 40px #0b0;
+/* Windows 95 Container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
 }
 
-.list-group-item {
-    background-color: rgba(0, 0, 0, 0.8);
-    color: #f8f9fa;
-    border-radius: 10px; /* Circular corners for list items */
+/* Windows 95 Grid System */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -5px;
+}
+
+.col, .col-md-6, .col-md-12 {
+    padding: 0 5px;
+    flex: 1;
+}
+
+.col-md-6 {
+    flex: 0 0 50%;
+}
+
+.col-md-12 {
+    flex: 0 0 100%;
+}
+
+/* Windows 95 Spacing */
+.mt-4 { margin-top: 20px; }
+.mb-3 { margin-bottom: 15px; }
+.mb-4 { margin-bottom: 20px; }
+.py-4 { padding: 20px 0; }
+.text-center { text-align: center; }
+.text-muted { color: var(--win95-dark-gray); }
+
+/* Windows 95 Icons */
+.fas, .fa {
+    margin-right: 4px;
+}
+
+/* Windows 95 File Upload */
+.custom-file-upload {
+    background: var(--win95-white);
+    border: 2px inset var(--win95-gray);
+    padding: 8px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-dark),
+        inset -1px -1px 0 var(--win95-shadow-light);
     margin-bottom: 10px;
 }
 
-.list-group-item a {
-    color: #0f0;
+.custom-file-upload:hover {
+    background: var(--win95-light-gray);
 }
 
-.list-group-item a:hover {
-    color: #0b0;
-    text-decoration: underline;
+/* Windows 95 Loading */
+.loading {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border: 2px solid var(--win95-gray);
+    border-radius: 50%;
+    border-top-color: var(--win95-blue);
+    animation: spin 1s linear infinite;
 }
 
-.container h1 {
-    margin-bottom: 20px;
+@keyframes spin {
+    to { transform: rotate(360deg); }
 }
 
-.footer {
-    background: rgba(0, 0, 0, 0.8);
-    color: #f8f9fa;
-    text-align: center;
-    padding: 10px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    border-top: 1px solid #0f0;
+/* Windows 95 Responsive */
+@media (max-width: 768px) {
+    .col-md-6 {
+        flex: 0 0 100%;
+    }
+    
+    .navbar-nav {
+        background: var(--win95-gray);
+        border: 2px outset var(--win95-gray);
+        margin-top: 5px;
+    }
+    
+    .navbar-nav .nav-link {
+        border-bottom: 1px solid var(--win95-black);
+    }
+}
+
+/* Additional fixes for input functionality */
+input, textarea, select {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    background: var(--win95-white) !important;
+    color: var(--win95-black) !important;
+    border: 2px inset var(--win95-gray) !important;
+    outline: none !important;
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-dark),
+        inset -1px -1px 0 var(--win95-shadow-light) !important;
+    position: relative !important;
+    z-index: 10 !important;
+}
+
+input:focus, textarea:focus, select:focus {
+    border: 2px inset var(--win95-blue) !important;
+    background: var(--win95-white) !important;
+    color: var(--win95-black) !important;
+    outline: none !important;
+}
+
+/* Ensure all form elements are properly styled and functional */
+.form-control-file {
+    background: var(--win95-white) !important;
+    border: 2px inset var(--win95-gray) !important;
+    color: var(--win95-black) !important;
+    padding: 2px 4px !important;
+    font-family: 'MS Sans Serif', 'Microsoft Sans Serif', Arial, sans-serif !important;
+    font-size: 11px !important;
+    outline: none !important;
+    box-shadow: 
+        inset 1px 1px 0 var(--win95-shadow-dark),
+        inset -1px -1px 0 var(--win95-shadow-light) !important;
+    min-height: 19px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    cursor: pointer !important;
+    position: relative !important;
+    z-index: 10 !important;
+}
+
+.form-control-file:focus {
+    border: 2px inset var(--win95-blue) !important;
+    background: var(--win95-white) !important;
+    color: var(--win95-black) !important;
+    outline: none !important;
+}
+
+/* Remove any conflicting styles */
+.form-control::before,
+.form-control::after {
+    display: none !important;
+}
+
+/* Ensure proper stacking context */
+.form-control, .btn, .nav-link, .navbar-brand {
+    position: relative !important;
+    z-index: 10 !important;
 }

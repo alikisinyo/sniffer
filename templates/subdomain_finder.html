@@ -1,40 +1,139 @@
 {% extends "base.html" %}
 
-{% block title %}FINDER{% endblock %}
+{% block title %}Subdomain Finder - SNIFFER{% endblock %}
 
 {% block content %}
-<h1 class="text-center neon-text">Subdomain Finder</h1>
-<form method="post" class="mt-4 url-form">
-    <div class="form-group">
-        <label for="url" class="neon-text">Enter a URL</label>
-        <input type="text" class="form-control" id="url" name="url" placeholder="Enter URL to find subdomains">
-    </div>
-    <button type="submit" class="btn btn-primary btn-block neon-button">Find Subdomains</button>
-</form>
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <!-- Header -->
+        <div class="text-center mb-5">
+            <h1 class="display-4 mb-3">
+                <i class="fas fa-search me-3"></i>Subdomain Finder
+            </h1>
+            <p class="lead text-muted">
+                Discover subdomains for any domain using multiple reconnaissance techniques
+            </p>
+        </div>
 
-{% if subdomains %}
-<h2 class="mt-5 neon-text">Subdomains</h2>
-<table class="table table-dark table-striped table-hover mt-3">
-    <thead>
-    <tr>
-        <th>Subdomain 1</th>
-        <th>Subdomain 2</th>
-        <th>Subdomain 3</th>
-        <th>Subdomain 4</th>
-    </tr>
-    </thead>
-    <tbody>
-    {% for row in subdomains %}
-    <tr>
-        {% for subdomain in row %}
-        <td><a href="http://{{ subdomain }}" target="_blank" class="text-info">{{ subdomain }}</a></td>
-        {% else %}
-        <td></td>
-        {% endfor %}
-    </tr>
-    {% endfor %}
-    </tbody>
-</table>
-<a href="{{ url_for('download_file', filename=csv_filename) }}" class="btn btn-success btn-block mt-3 neon-button">Download CSV</a>
-{% endif %}
+        <!-- Main Form Card -->
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0">
+                    <i class="fas fa-globe me-2"></i>Domain Analysis
+                </h5>
+            </div>
+            <div class="card-body">
+                <form method="post">
+                    <div class="mb-4">
+                        <label for="url" class="form-label">
+                            <i class="fas fa-link me-2"></i>Enter Domain
+                        </label>
+                        <input type="text" class="form-control" id="url" name="url" 
+                               placeholder="example.com" autocomplete="off">
+                        <div class="form-text">
+                            <i class="fas fa-info-circle me-1"></i>Enter a domain without protocol (e.g., example.com)
+                        </div>
+                    </div>
+                    
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            <i class="fas fa-search me-2"></i>Find Subdomains
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Error Alert -->
+        {% if error %}
+        <div class="alert alert-danger alert-dismissible fade show mt-4" role="alert">
+            <i class="fas fa-exclamation-triangle me-2"></i>
+            {{ error }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+        {% endif %}
+
+        <!-- Results Section -->
+        {% if subdomains %}
+        <div class="card mt-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">
+                    <i class="fas fa-list me-2"></i>Discovered Subdomains
+                </h5>
+                <span class="badge bg-success">
+                    <i class="fas fa-check me-1"></i>{{ total_count }} subdomain(s) found
+                </span>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-dark table-hover">
+                        <thead>
+                            <tr>
+                                <th><i class="fas fa-link me-1"></i>Subdomain 1</th>
+                                <th><i class="fas fa-link me-1"></i>Subdomain 2</th>
+                                <th><i class="fas fa-link me-1"></i>Subdomain 3</th>
+                                <th><i class="fas fa-link me-1"></i>Subdomain 4</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in subdomains %}
+                            <tr>
+                                {% for subdomain in row %}
+                                <td>
+                                    <a href="https://{{ subdomain }}" target="_blank" class="text-decoration-none">
+                                        <i class="fas fa-external-link-alt me-1"></i>{{ subdomain }}
+                                    </a>
+                                </td>
+                                {% else %}
+                                <td></td>
+                                {% endfor %}
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Download Button -->
+                <div class="text-center mt-4">
+                    <a href="{{ url_for('download_file', filename=csv_filename) }}" 
+                       class="btn btn-success">
+                        <i class="fas fa-download me-2"></i>Download Results (CSV)
+                    </a>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+
+        <!-- Features Section -->
+        <div class="row mt-5">
+            <div class="col-md-4">
+                <div class="card text-center h-100">
+                    <div class="card-body">
+                        <i class="fas fa-database fa-3x text-primary mb-3"></i>
+                        <h5 class="card-title">Certificate Transparency</h5>
+                        <p class="card-text">Search SSL certificate databases for subdomains</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card text-center h-100">
+                    <div class="card-body">
+                        <i class="fas fa-server fa-3x text-success mb-3"></i>
+                        <h5 class="card-title">DNS Enumeration</h5>
+                        <p class="card-text">Check common subdomain patterns via DNS</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card text-center h-100">
+                    <div class="card-body">
+                        <i class="fas fa-download fa-3x text-info mb-3"></i>
+                        <h5 class="card-title">Export Results</h5>
+                        <p class="card-text">Download findings in CSV format for analysis</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 {% endblock %}
